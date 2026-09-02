@@ -2,7 +2,7 @@
 
 TC-Agent là một hệ thống AI Agent phục vụ các tác vụ liên quan đến **thờ cúng và văn hóa Việt Nam**.
 
-Dự án được xây dựng theo kiến trúc module, trong đó Agent có thể sử dụng các công cụ như **RAG, Memory, Calculator và Search**.
+Dự án được xây dựng theo kiến trúc module, trong đó Agent có thể sử dụng các công cụ như **RAG, Reranker và Memory**.
 
 ## Cấu trúc thư mục
 
@@ -13,10 +13,9 @@ tc-agent/
 │   ├── agent/                  # Code Agent (ReAct, prompt, reasoning)
 │   │
 │   ├── tools/                  # Các tool mà Agent có thể sử dụng
-│   │   ├── rag/                # RAG (Load data, chunking, retrieval, reranking)
-│   │   ├── memory/             # Memory (Lưu lịch sử chat, session)
-│   │   ├── calculator/         # Calculator tool
-│   │   └── search/             # Search tool
+│   │   ├── rag/                # Code RAG (Load data, chunking, retrieval)
+│   │   ├── reranker/           # Code Reranker (Cross-Encoder, lọc lại top K)
+│   │   └── memory/             # Code Memory (Lưu lịch sử chat, session)
 │   │
 │   ├── router/                 # Router (Phân loại query, chặn OOD)
 │   │
