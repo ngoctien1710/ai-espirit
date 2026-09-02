@@ -10,20 +10,22 @@ Dự án được xây dựng theo kiến trúc module, trong đó Agent có th�
 tc-agent/
 │
 ├── src/
-│   ├── agent/                  # Code Agent (ReAct, prompt, reasoning)
+│   ├── agent/                  # Agent reasoning / ReAct
 │   │
-│   ├── tools/                  # Các tool mà Agent có thể sử dụng
-│   │   ├── rag/                # Code RAG (Load data, chunking, retrieval)
-│   │   ├── reranker/           # Code Reranker (Cross-Encoder, lọc lại top K)
-│   │   └── memory/             # Code Memory (Lưu lịch sử chat, session)
+│   ├── rag/                    # Direct RAG pipeline
 │   │
-│   ├── router/                 # Router (Phân loại query, chặn OOD)
+│   ├── router/                 # Quyết định Agent / RAG / OOD
 │   │
-│   └── main.py                 # File chạy thử, nối tất cả lại với nhau
+│   ├── tools/                  # Các capability mà Agent có thể gọi (có thể thêm)
+│   │   ├── retriever/          # Retrieval tool
+│   │   ├── reranker/           # Reranking tool
+│   │   └── memory/             # Memory
+│   │
+│   └── main.py                 # File chạy thử, nối các module
 │
-├── eval/                       # Code chấm điểm, đo đạc metric (Recall, F1...)
+├── eval/                       # Code đánh giá và đo lường hệ thống
 │
-└── requirements.txt            # Thư viện cần cài
+└── requirements.txt            # Các thư viện cần cài
 ```
 
 ## Môi trường
