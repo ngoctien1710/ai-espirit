@@ -4,6 +4,14 @@ TC-Agent là một hệ thống AI Agent phục vụ các tác vụ liên quan �
 
 Dự án được xây dựng theo kiến trúc module, trong đó Agent có thể sử dụng các công cụ như **RAG, Reranker và Memory**.
 
+## System Pipeline
+
+The overall system architecture is shown below.
+
+[📄 View System Pipeline](assets/aisepirit.drawio.pdf)
+
+*Figure 1. Overview of the TC-Agent system pipeline.*
+
 ## Cấu trúc thư mục
 
 ```text
@@ -24,6 +32,8 @@ tc-agent/
 │   └── main.py                 # File chạy thử, nối các module
 │
 ├── eval/                       # Code đánh giá và đo lường hệ thống
+├── assets/                     # Hình ảnh và tài nguyên của project
+│   └── pipeline.png
 │
 └── requirements.txt            # Các thư viện cần cài
 ```
