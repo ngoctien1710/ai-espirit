@@ -8,7 +8,7 @@ Dự án được xây dựng theo kiến trúc module, trong đó Agent có th�
 
 The overall system architecture is shown below.
 
-[📄 View System Pipeline](assets/aisepirit.drawio.pdf)
+![TC-Agent System Pipeline](assets/aisepirit.drawio.png)
 
 *Figure 1. Overview of the TC-Agent system pipeline.*
 
