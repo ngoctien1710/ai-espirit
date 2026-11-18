@@ -1,0 +1,32 @@
+[
+  {
+    "id": "router_v2_001",
+    "case_type": "normal",
+    "input": {"query": "Cách bày mâm cúng ông Công ông Táo như thế nào?", "session_id": "s1", "user_id": null, "metadata": {}},
+    "ground_truth": {"route": "knowledge_qa"}
+  },
+  {
+    "id": "router_v2_002",
+    "case_type": "normal",
+    "input": {"query": "Bộ tam sên giá bao nhiêu?", "session_id": "s1", "user_id": null, "metadata": {}},
+    "ground_truth": {"route": "product_search"}
+  },
+  {
+    "id": "router_v2_003",
+    "case_type": "normal",
+    "input": {"query": "Tính giúp tôi tổng tiền 1 mâm cúng rằm gồm 5 món, mỗi món 50.000đ", "session_id": "s1", "user_id": null, "metadata": {}},
+    "ground_truth": {"route": "multi_step"}
+  },
+  {
+    "id": "router_v2_004",
+    "case_type": "edge",
+    "input": {"query": "Cho tôi mâm cúng", "session_id": "s2", "user_id": null, "metadata": {}},
+    "ground_truth": {"route": "ambiguous"}
+  },
+  {
+    "id": "router_v2_005",
+    "case_type": "edge",
+    "input": {"query": "Hôm nay ăn gì nhỉ", "session_id": "s2", "user_id": null, "metadata": {}},
+    "ground_truth": {"route": "ood"}
+  }
+]

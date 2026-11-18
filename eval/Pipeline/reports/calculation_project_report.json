@@ -1,0 +1,50 @@
+{
+  "module": "calculation",
+  "num_cases": 3,
+  "num_success": 3,
+  "num_errors": 0,
+  "aggregate": {
+    "exact_match": 0.6666666666666666,
+    "relative_error": 0.3333333333333333
+  },
+  "breakdown_by_case_type": {
+    "adversarial": {
+      "exact_match": 0.0,
+      "relative_error": 1.0
+    },
+    "normal": {
+      "exact_match": 1.0,
+      "relative_error": 0.0
+    }
+  },
+  "errors": [],
+  "per_case": [
+    {
+      "id": "calc_v2_001",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 1.0,
+        "relative_error": 0.0
+      },
+      "latency_sec": 3.409385681152344e-05
+    },
+    {
+      "id": "calc_v2_002",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 1.0,
+        "relative_error": 0.0
+      },
+      "latency_sec": 1.5974044799804688e-05
+    },
+    {
+      "id": "calc_v2_003",
+      "case_type": "adversarial",
+      "scores": {
+        "exact_match": 0.0,
+        "relative_error": 1.0
+      },
+      "latency_sec": 1.1205673217773438e-05
+    }
+  ]
+}

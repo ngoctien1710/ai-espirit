@@ -45,8 +45,9 @@ class RAGPipeline:
         self.vector_store.add(valid_docs, valid_embeddings)
         return {"status": "SUCCESS", "chunks_indexed": len(valid_docs)}
 
-    def query(self, query: str, session_id: str = "", user_id: Optional[str] = None, metadata: Dict = None, top_k: int = 5, filters: Dict = None) -> Dict[str, Any]:
-        retrieval_res = self.retriever.retrieve(query, top_k=top_k, filters=filters)
+    def query(self, query: str, session_id: str = "", user_id: Optional[str] = None, metadata: Dict = None) -> Dict[str, Any]:
+        internal_top_k = 5 
+        retrieval_res = self.retriever.retrieve(query, top_k=internal_top_k)
         
         status = retrieval_res.get("metadata", {}).get("status")
         if status != "SUCCESS":

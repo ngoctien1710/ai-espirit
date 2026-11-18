@@ -1,0 +1,5973 @@
+[
+  {
+    "module": "retriever",
+    "id": "d55bbab59cdd93ee833f82d41b03669486dfc8f592e931dd572dcdcd0edbbb59",
+    "case_type": "normal",
+    "input": {
+      "query": "Mùng 1 âm lịch có tên gọi là gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_000"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "86c1ef7117b244512d79fac15000508c792b354c586452c4b8b7af65a6819770",
+    "case_type": "normal",
+    "input": {
+      "query": "Ngày Mùng 1 âm lịch liên quan đến điều kiện nào về mặt thiên văn?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_000"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "354350bd3418e59612e89a3ac74f8595f67ec2825b46bfa7ba1e7db1baae7ba7",
+    "case_type": "normal",
+    "input": {
+      "query": "Tại sao gọi ngày Mùng 1 âm lịch là Sóc?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_000"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "e63979be0e7fa83b84a09b63ef15379c979eadf2db684ee8bcb64fbf70923f3d",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong một chu kỳ trăng, ngày nào sẽ không có trăng?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_000"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "89bab97aa0f4fd5efd60cae830559a87eea70abf90c46a02c14051507400d1da",
+    "case_type": "normal",
+    "input": {
+      "query": "Tại sao ngày Mùng 1 âm lịch thường không có trăng visible?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_000"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "54c7abbf5486c6da206772673955172e85cc196727303e9854fe7ca54da05186",
+    "case_type": "normal",
+    "input": {
+      "query": "Một tên gọi khác của ngày Mùng 1 âm lịch là gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_000"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "60a1a9468a8e40ec573ca4623b3e9a7453243df58631fc5412b94b0f59208c8c",
+    "case_type": "normal",
+    "input": {
+      "query": "Định nghĩa về Mùng 1 âm lịch bao gồm những nội dung nào?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_000"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "4b836146053a02788d92752410d33a2dcfe026d1080977eb48a959fa15d3337f",
+    "case_type": "normal",
+    "input": {
+      "query": "Bản chất thiên văn của ngày Mùng 1 âm lịch là gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_000"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "e4002ee34e6d45a045880eb157c14d6154ed9c018e2cf86fde0ae5c987d68c9b",
+    "case_type": "normal",
+    "input": {
+      "query": "Ngày Mùng 1 âm lịch thuộc phạm vi nào về mặt tôn giáo?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_000"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "26e851caf7af80ecd6aef05b0949b1cc5f114b2e99fcd768be06e46548b7a38d",
+    "case_type": "normal",
+    "input": {
+      "query": "Tượng trưng cho sự gì theo ý nghĩa tâm linh của ngày này?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_001"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "19907536fcfb4cbf3618797f67e0cdfedb8151142e0d6e5c63fa21600fd0213a",
+    "case_type": "normal",
+    "input": {
+      "query": "Gia chủ làm gì trong dịp này để cầu mong may mắn và tài lộc?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_001"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "9a8528be717b39a8a4f4192a42a4777a266662b0c94ab009c62f10f99d7e56a0",
+    "case_type": "normal",
+    "input": {
+      "query": "Theo Phật giáo, ngày này có ý nghĩa gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_001"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "9f5ea80dd66682be8d15cd4719c8f0e29ac2c08609bb48278c06c91601ecdb7c",
+    "case_type": "normal",
+    "input": {
+      "query": "Tăng ni và Phật tử thường làm gì trong ngày này theo Phật giáo?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_001"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "bb2e007f6c6f0f93e3aae0ba78dda9bfa222b55ef2384415a4f27e7cad48d290",
+    "case_type": "normal",
+    "input": {
+      "query": "Điều gì tượng trưng cho sự đổi mới theo văn bản này?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_001"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "adda947a3297e831b6ad94fd2d4069cbb9e24101079a8879737a66464dc41f2b",
+    "case_type": "normal",
+    "input": {
+      "query": "Gia chủ làm gì để xua đi u ám và xui xẻo?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_001"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "fbf040101b791b2742ff7fdbe407b225455740f22e179fa8a04eddb229a8423a",
+    "case_type": "normal",
+    "input": {
+      "query": "Ngoài việc nuôi dưỡng lòng từ bi, hướng thiện, ngày này còn có ý nghĩa gì khác trong Phật giáo?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_001"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "744067e3ebc986880de710af7589012d83f19456c1d27a0b531805ed7059cb27",
+    "case_type": "normal",
+    "input": {
+      "query": "Cầu mong điều gì cho tháng mới?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_001"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "dc87f6a96d10939017c8726459ea6afbe82d5837af7b09c0b7a3cde2c9059bf0",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong Phật giáo, việc đi chùa sám hối vào ngày này có ý nghĩa như thế nào?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_001"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "09d6f8855505ecbd2e01467e9ad2256512cba757b6aa83355cdbd8f434c4652f",
+    "case_type": "normal",
+    "input": {
+      "query": "Tín ngưỡng Dân gian Việt Nam liên quan đến những người hoặc vị trí nào trong các nghi lễ?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_002"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "d92fdcf86314d82efd7b81515d2aea0c0efc5bb6441592086a611b27b327738e",
+    "case_type": "normal",
+    "input": {
+      "query": "Tín ngưỡng Dân gian Việt Nam có mục đích chính là gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_002"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "bafc6125ed3ef3ff84b6d86fc136d3179b5adffd2551b8aa1226feedc044f7b5",
+    "case_type": "normal",
+    "input": {
+      "query": "Dân gian Việt Nam tin rằng ngày lễ cúng này giúp họ liên hệ với những lực lượng nào?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_002"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "5f1ff1f0f0c38fbfbd07b5ab94818ac17b7a771e16677d1fd1a3ba409458c724",
+    "case_type": "normal",
+    "input": {
+      "query": "Văn hóa tín ngưỡng dân gian có sự khác biệt ở các vùng miền không?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_002"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "3debf7978599f7574d09831c6ea1bdd7f7f181214259b91cc460d05336bc76dc",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong lễ cúng, gia đình kinh doanh sẽ thỉnh nguyện ai?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_002"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "87f0f7498050a1fda4190e38731ce5ab38c8ee7e49bf7eed3d6fa6e2558ad646",
+    "case_type": "normal",
+    "input": {
+      "query": "Tín ngưỡng Dân gian Việt Nam bao gồm những gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_002"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "3568c7257a592bdf191e286e10e4e3d8ec23dc02b7e5679d1d8ca8eecec6a28d",
+    "case_type": "normal",
+    "input": {
+      "query": "Các vị Tôn thần được thỉnh nguyện trong lễ cúng dân gian bao gồm những ai?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_002"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "6e3ecc2a9fa1bd399c3535e7da278431b16418fbec08be08ef6e7e1b927b50c3",
+    "case_type": "normal",
+    "input": {
+      "query": "Tín ngưỡng Dân gian Việt Nam có liên quan đến kinh doanh không?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_002"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "b84aa855f788ed6ce59a49a8fc4a92ffdc03caf58b4264fd859f72bc53442804",
+    "case_type": "normal",
+    "input": {
+      "query": "Văn hóa tín ngưỡng dân gian được nhấn mạnh ở điểm nào trong văn bản?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_002"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "e3ea946719ef0d046d25c08d074638463087bca158ecd0570e595efd7df6ce88",
+    "case_type": "normal",
+    "input": {
+      "query": "Miền Bắc coi trọng điều gì trong các lễ nghi tâm linh?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_003"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "731b3d90f993fdf25fd9b14d56c4d10e82d08f2d1a6bbf69f70fe78c1039b7cc",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ vật nào thường được dùng để cúng Gia tiên ở miền Bắc?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_003"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "9bb1de22a5a0d65c98e4849c56c6db116d1c62d7e524ad5fc2f48841ae4d7bc7",
+    "case_type": "normal",
+    "input": {
+      "query": "Miền Bắc ưu tiên cúng lễ chay như thế nào?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_003"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "536b1c32b939895c5c9f3f9fd4973b79860c7d5193d92f6c3fad79652b64fc7c",
+    "case_type": "normal",
+    "input": {
+      "query": "Miền Trung cúng từ giờ gì trong ngày?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_003"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "2f33b6a3f8fe372c80c70c4c2376d06f797cc3ba76923f804eb988ad798a458b",
+    "case_type": "normal",
+    "input": {
+      "query": "Miền Trung coi trọng điều gì trong các lễ cúng?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_003"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "f3349e0c391b92de6403776f5c0acb34c1fe5d345d2a0cb7fdc9d01200e7e01c",
+    "case_type": "normal",
+    "input": {
+      "query": "Tại sao miền Trung phải cúng từ sớm như vậy?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_003"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "19f81709dc9e6799fc173020359ba9144e75e36894d7e52b5a64ead30e7aa83d",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ vật nào thường được dùng khi cúng tại miền Trung?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_003"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "56dd843638fcfa483715f9885c4aef3e5e5204db90f06991fcab4a0ec135682f",
+    "case_type": "normal",
+    "input": {
+      "query": "Miền Bắc và miền Trung khác biệt như thế nào trong các nghi lễ tâm linh?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_003"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "1d07b917ce638df9d627d3e41c88a24721254d2c44c50131c5ce2212c273a77b",
+    "case_type": "normal",
+    "input": {
+      "query": "Các địa phương nào được đề cập trong văn bản?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_003"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "a86d05853e0de94be28586e1f15e01280414660a742cce7ea8cae3f4c2014850",
+    "case_type": "normal",
+    "input": {
+      "query": "Miền Nam có phong cách sống như thế nào?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_004"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "ee406b0a6c89ff07b05230b98f020fb216486e3e4f9fa77756322c61622e0473",
+    "case_type": "normal",
+    "input": {
+      "query": "Đặc điểm gì đặc biệt ở miền Nam về mặt tín ngưỡng?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_004"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "765fa8b505d154c4b6694695048b25d0a2b1b06d8bfcb1e02b222f1a6963b671",
+    "case_type": "normal",
+    "input": {
+      "query": "Mâm lễ truyền thống của miền Nam thường có những loại quả nào?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_004"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "38210b1213d4aa62ad10306bbb89e9a81906bd5fcd7206e61b308abb8165eee6",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ cúng Gia tiên & Thần linh bản gia được thực hiện ở đâu?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_005"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "d434c47d260ec9b60f4aa7baf03b3c72a8ab1741887d964819b8d70895641fa0",
+    "case_type": "normal",
+    "input": {
+      "query": "Địa điểm nào không phù hợp để thực hiện Lễ cầu an & Sám hối?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_005"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "a7a0c5d950c49ea25699ad5b07a4ccfd5ac08789af11a2f8647228306214a6f5",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ khai quang / Xin lộc làm ăn được tổ chức ở đâu?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_005"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "99b7ad3b822a4b8562b6ceaa86c0cd7f1980075fffc3b0ec2d9907b4f257d7be",
+    "case_type": "normal",
+    "input": {
+      "query": "Nơi nào không thể thực hiện Lễ cúng Mùng 1 theo văn bản?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_005"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "b00330edc907deec095a1fa3cc327f74813bf1b6e13082c49f3bbaed449d2ca6",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ cầu an & Sám hối có thể thực hiện ở đâu ngoài Chùa, Đền, Phủ?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_005"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "39f69ca70aac0aeec0e268e7d6520442903f555c020ce7e5f294dc9d214603c7",
+    "case_type": "normal",
+    "input": {
+      "query": "Vùng miền nào được đề cập trong văn bản?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_005"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "c8e3316bbf7b344fe877132b2b210a8e11df08ea08e4aefbcad1945ddfcffaf2",
+    "case_type": "normal",
+    "input": {
+      "query": "Bàn thờ Gia tiên / Thần linh tại nhà có vai trò gì trong lễ cúng Mùng 1?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_005"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "916c6be2690ebb8a4f7267e9e560b87ffcd4870f11beb5654d1db1c3d44ec943",
+    "case_type": "normal",
+    "input": {
+      "query": "Ngoài gia đình, còn đâu khác có thể thực hiện Lễ cầu an & Sám hối?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_005"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "82ecc3e7ae98b4ed603a8a4be872289acfa402e31ae5bcd6c6b16ac4d907c2c9",
+    "case_type": "normal",
+    "input": {
+      "query": "Văn bản đề cập đến bao nhiêu loại lễ cúng được liệt kê?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_005"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "c53727001984e5a6f8850712ab3c880dfba1c75da69e1659de92da7c6d0fcb97",
+    "case_type": "normal",
+    "input": {
+      "query": "Chùa nào ở Hà Nội nổi tiếng cầu tài lộc?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_006"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "4e853fa82fe0fce42cf48535d7866b3b7e2dc0b64af200539d86fb6e82ac97ca",
+    "case_type": "normal",
+    "input": {
+      "query": "Nơi thờ Bà Chúa Xứ Núi Sam nằm ở đâu?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_006"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "c2d79bd1a6b01a92b0b0a3b3933d170a900a3174bff640a4b9af6a45778cac81",
+    "case_type": "normal",
+    "input": {
+      "query": "Chùa nào ở TP. Hồ Chí Minh nổi tiếng cầu công danh?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_006"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "eb674766c7e7eaf52fa082a1a3b787360df5b2dc404a6d9ca9ab7ce197d66e4e",
+    "case_type": "normal",
+    "input": {
+      "query": "Đền Ngọc Sơn thuộc quận nào của Hà Nội?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_006"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "907f86ca850973db4a2a9f90f7405a22b30423bc6d50a91338c8865ca7435035",
+    "case_type": "normal",
+    "input": {
+      "query": "Chùa Bái Đính nằm ở đâu?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_006"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "5436583ddea2f82e0da7352077e3fb6e883e4ff8d28867ccb713f0ce01283864",
+    "case_type": "normal",
+    "input": {
+      "query": "Tòa Thánh Tây Ninh thuộc tỉnh nào?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_006"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "66050dbe22ba61e2ac85319862203eecbd2a9c69aeaf8eacda448c3849660be4",
+    "case_type": "normal",
+    "input": {
+      "query": "Chùa Vĩnh Nghiêm nằm ở đâu?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_006"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "7ba9cc63468bc1a080a5ec6da72d1c5f8832ed467b6157c5fd99a4fbeb7b5fbe",
+    "case_type": "normal",
+    "input": {
+      "query": "Nơi nào cầu tài lộc ở An Giang?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_006"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "b2eff61a47a93684ed4514b7110f41994c5d3b88b2b295fd73bb3683ae6f1183",
+    "case_type": "normal",
+    "input": {
+      "query": "Chùa nào ở Hà Nam?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_006"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "b235982d76135aa548f57e341a724ccd5aad97eccc51d1eb6efb4e868d23d155",
+    "case_type": "normal",
+    "input": {
+      "query": "Chùa nào nổi tiếng với cầu tài lộc và công danh tại TP. Hồ Chí Minh?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_007"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "26cb457cbfb2151e43ce2c770750c18f9930b278bcee205ea1149a3d64ad278b",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ cúng Mùng 1 âm lịch diễn ra vào thời gian nào?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_007"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "1a4262550e1a7e94f6b15fffc2fa61e8fa0aca7170662882ad5268dabecc13b7",
+    "case_type": "normal",
+    "input": {
+      "query": "Văn bản đề cập đến bao nhiêu tỉnh/thành phố có chùa được nhắc tên?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_007"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "a17936f174707ef6af0b4eaa1d17c21da105eadef12a7c6475da5a5b889abfda",
+    "case_type": "normal",
+    "input": {
+      "query": "Chùa Bà Thiên Hậu ở đâu tại TP. Hồ Chí Minh?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_007"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "a627750c63c19e457133b033d038f91479eb7a0c8b86c307df80c3fc39e6d44f",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ cúng Mùng 1 âm lịch thường được thực hiện vào ngày nào trong tháng?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_007"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "706a464575363fa8c8fd583c8b5ef23b0f131a922846745e2f221f95df29b65a",
+    "case_type": "normal",
+    "input": {
+      "query": "Tòa Thánh Tây Ninh và Chùa Bà Đen nằm ở đâu?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_007"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "1943b186ff753dbb631b2c2eee1616586433a088cfd38b161bc9e2154261bc4c",
+    "case_type": "normal",
+    "input": {
+      "query": "Miếu Bà Chúa Xứ Núi Sam ở tỉnh nào?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_007"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "95aa2a3a6a747a4989cb85acb2002e979e2b25c6c58b9593172dc58e2ab48e0a",
+    "case_type": "normal",
+    "input": {
+      "query": "Ngoài TP. Hồ Chí Minh, còn có tỉnh/thành phố nào được đề cập trong văn bản?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_007"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "440e649d4a02ca335e293fab796ee6e6d426f7fcaf05ce4e467f9abf9b3ec491",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ cúng Mùng 1 âm lịch bao gồm các loại thức ăn nào trên mâm lễ?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_007"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "888a0d27eda2738e604bd0b4a46d795fa8b8ff82b79e6ce5616af4469ff704ef",
+    "case_type": "normal",
+    "input": {
+      "query": "Hoa tươi trong lễ vật thường được chọn như thế nào?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_008"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "e7d2b54638441330b9e0a00630d87cbb298e1f66ce3a990ec379ceb983b74eea",
+    "case_type": "normal",
+    "input": {
+      "query": "Mâm ngũ quả chứa những loại trái cây nào trong lễ vật truyền thống?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_008"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "df3817ee980fd0d23c2e5fbbf338a6b1ccc01c4e7d0fe8a970be20fc41a4d382",
+    "case_type": "normal",
+    "input": {
+      "query": "Trầu cau được chuẩn bị như thế nào để sử dụng trong lễ vật?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_008"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "09d71b789cdcfa387e838cf4746972753fdc6e16edf56f6446210eb7d5362cc4",
+    "case_type": "normal",
+    "input": {
+      "query": "Có những loại xôi/bánh nào thường được dùng trong lễ vật?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_008"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "c1a253da10c668599d903d504efaac8a5c4c36509bd8b538f1b00be81462e16d",
+    "case_type": "normal",
+    "input": {
+      "query": "Hoa tươi có thể chọn được loại nào khác không?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_008"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "4f55cfbc08366abdebe37c1ef9a5b1ec5308da539d3dbd0533b4aa05d26b108e",
+    "case_type": "normal",
+    "input": {
+      "query": "Mâm ngũ quả trong mùa hè thường bao gồm những gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_008"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "f6b2c44f94a53120c1f33feedc16a3dbaf520ef35bced5d5918a991e72d9d1b3",
+    "case_type": "normal",
+    "input": {
+      "query": "Trầu cau có thể được chuẩn bị như thế nào khác?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_008"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "a26a80d07910fb5459358245123281610754696a3c9ab3dcc96ad3fb857a11a2",
+    "case_type": "normal",
+    "input": {
+      "query": "Ngoài xôi gấc, còn có những loại bánh nào trong lễ vật?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_008"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "08ff07073679cc5dc0a518122237de2a3e8b3959d3ca63672ae3eb3eac63512d",
+    "case_type": "normal",
+    "input": {
+      "query": "Danh sách hoa tươi nào được đề xuất trong văn bản?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_009"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "3fa1c34271fcb3e1a22602675f9f9f9992e6b1aed3c9e1c23bc44db32bc6278e",
+    "case_type": "normal",
+    "input": {
+      "query": "Mãng cầu thuộc nhóm sản phẩm nào trong mâm ngũ quả?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_009"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "49eaed08378e74b5c01966cf73ce482925bbb29b8409885c008a19550cdcb0a6",
+    "case_type": "normal",
+    "input": {
+      "query": "Đồ ngọt có thể lựa chọn gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_009"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "7166300ec8a19fcaf3392cfa8ab353978a1a2c1e4b76e48fc58e6777e398c54c",
+    "case_type": "normal",
+    "input": {
+      "query": "Gà nào được đề xuất trong mâm cỗ mặn?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_009"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "f9fbac8c6e5e28599b0195c0b9c36b138df5b266e43d8be0373ebe4f5a4207f8",
+    "case_type": "normal",
+    "input": {
+      "query": "Giò lụa thái lát có nằm trong món kèm nào không?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_009"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "38d92a3d41f4da07b4c7d41d29003b8f7050d3abd6f9d264ee84782944b25dbd",
+    "case_type": "normal",
+    "input": {
+      "query": "Thịt luộc được cắt thành từng lát như thế nào?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_009"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "dc8f48633e4f66415dd00809bf6f62397d3d3739051832f69d562b0f4c07a165",
+    "case_type": "normal",
+    "input": {
+      "query": "Có món gì có chứa cá trong mâm cỗ mặn không?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_009"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "79c914ed586184b67de7219e81a1b5ac0a138eff1c338159187de7d76b7310e2",
+    "case_type": "normal",
+    "input": {
+      "query": "Ngoại trừ chuối, cam, lê, các loại quả nào được đề xuất trong mâm ngũ quả?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_009"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "566cde00cfdd555e2e821aed1c0bd322f7f0e19dbf8cde88ef036387a2f8a07c",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong mâm cỗ mặn, món gà luộc có da màu gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_009"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "2f928c303b0bdcd2599cc3acd0a7171e24a29f881247b4b6e1d2a93f890a1b06",
+    "case_type": "normal",
+    "input": {
+      "query": "Sự tượng trưng của thịt kho hột vịt trong lễ cúng là gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_010"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "5cd47c2e8108ad0b420158f17797e92c2b3b907ff680199da73f99f93558a92f",
+    "case_type": "normal",
+    "input": {
+      "query": "Có bao nhiêu ly nước sạch trong đồ cúng bàn thờ Thần Tài?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_010"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "d299292af27db78e0ff2d5617e5900f1d6ddb30749e2db1ed0f7173ad136e5f0",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong lễ cúng, có món gì được nấu từ gà không?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_010"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "a29f1df7413710df6688eb42aeda98d14e950f635549484e481864581a414648",
+    "case_type": "normal",
+    "input": {
+      "query": "Đồ cúng truyền thống bao gồm những vật phẩm nào?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_010"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "60c199503e1dd28b00c7f20710405a3ebf4ec7e75c930eb1cae7f87157cde5b6",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong đồ cúng, có bao nhiêu ly nước sạch?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_010"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "38cbdc7483a6be58c481caef8e153ba087c7e3bb469c43d18314f88ffe9757e0",
+    "case_type": "normal",
+    "input": {
+      "query": "Món gì được kèm theo thịt kho hột vịt?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_010"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "59fe663027a8ea6f260dc3e23ef7d072ca8a0224ed98010c3c968de2f989dd3a",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong lễ cúng, đồ dùng rải sau bàn thờ là gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_010"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "9fcde5d3d45d3b52656e99368b9f0e67a9f2e1f48d96de9c77f943ce72ffd425",
+    "case_type": "normal",
+    "input": {
+      "query": "Lý do nào khiến canh khổ qua dồn thịt được nấu?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_010"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "f52d9f109354651f64273eca49019e76d492f1bf712a6999f6db1f7de72b4745",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong đồ cúng bàn thờ Thần Tài, có những vật phẩm gì đặc biệt không?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_010"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "49830e6d13cd87179be352ac36dd60e5b0d77fa2af3f34c02a312656d70c7e91",
+    "case_type": "normal",
+    "input": {
+      "query": "Bát hương được đặt ở vị trí nào trên bàn thờ?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_011"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "7477c19fe9996bad8d606d8ab5bf27744d197c81bc1998c42734df34fe7a2070",
+    "case_type": "normal",
+    "input": {
+      "query": "Đèn (hoặc nến) và chén nước sạch được sắp xếp như thế nào?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_011"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "44c1c18d47402c1a7a0763533460e947a8782998123324cabc3fd96c86418d2f",
+    "case_type": "normal",
+    "input": {
+      "query": "Lọ hoa tươi nên đặt ở đâu trên bàn thờ?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_011"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "f4e017e78afa59b0e2154ceef48288bbba69e3585a6ba89cbf403d43dfa6a235",
+    "case_type": "normal",
+    "input": {
+      "query": "Đĩa trái cây (mâm ngũ quả) phải đặt tại vị trí nào?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_011"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "77c59367ce0ebec3b6b23fe0bc2630ef33ba4b2e16b11c74e082b9e79bef5e74",
+    "case_type": "normal",
+    "input": {
+      "query": "Theo hướng dẫn, bát hương và các lễ vật khác nên được sắp xếp theo trật tự nào?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_011"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "c15d26694052838473582bf9e6d0a66d122535c91dd4c79b6827a7bc5d482abd",
+    "case_type": "normal",
+    "input": {
+      "query": "Bên nào của bàn thờ nên đặt lọ hoa?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_011"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "48cd1cc85eeef828e674c32dbebd1de56dfdcd51c5929ee4f101fd7f2ee33392",
+    "case_type": "normal",
+    "input": {
+      "query": "Ở đâu trên bàn thờ thì không thể đặt đèn hoặc nến?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_011"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "a883b6d80773d9442d8e20044244bc86763f68a2830796a676bb9a9ef38608fa",
+    "case_type": "normal",
+    "input": {
+      "query": "Mâm ngũ quả nên đặt ở đâu để phù hợp với nguyên tắc bày biện?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_011"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "e6e4da7f448c12b8b16cd1809dd7eeb1ef938ba7c519a7ebfed9a8c34ee36b74",
+    "case_type": "normal",
+    "input": {
+      "query": "Bài hương có cần lùi về phía trong khi đặt trên bàn thờ không?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_011"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "f6c9287e0137b6321705ab57af841bf3d0095e43514d0a63cf0f1f21440c5e11",
+    "case_type": "normal",
+    "input": {
+      "query": "Mâm cỗ gồm những gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_012"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "a4d3ecaf62aaf6155037b2f5a9a29aa36b3b19b93c84d074bf804c5838dcee65",
+    "case_type": "normal",
+    "input": {
+      "query": "Trầu cau và tiền vàng mã được đặt ở đâu?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_012"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "1006df86940a7ecbcebad497fd54ec4f4b711d2198a221a60750b46b5c81ec80",
+    "case_type": "normal",
+    "input": {
+      "query": "Nguyên tắc chung khi bày biện là gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_012"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "2601a87a938fdd288c0bfb272e6e25c9dac0b6f903b7c89cf3aea670b0782555",
+    "case_type": "normal",
+    "input": {
+      "query": "Lý do để đặt đồ cao lớn ở phía trong là gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_012"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "5831a81cf1cd4f685bd8ed947996464be18dabdd3f190cb0efd8b45346371c1e",
+    "case_type": "normal",
+    "input": {
+      "query": "Một số vật phẩm nào có thể được sử dụng trong nghi lễ này?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_012"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "92bcf88b44e5c9f8b021e7cf969fd7b5eec8d44024ce533b0e007917fe05823e",
+    "case_type": "normal",
+    "input": {
+      "query": "Đồ thấp hơn như chén nước và đĩa trầu cau được đặt ở đâu?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_012"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "cc63236fad7ba2bb11b7c6c824caff729b26dbf92859e0965c276d72cc8fb665",
+    "case_type": "normal",
+    "input": {
+      "query": "Mâm cỗ có thể bao gồm những món ăn nào?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_012"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "97f27f98b06fe0b8af228af50c343cf18e4666ea950f98430f6f73ab8759210e",
+    "case_type": "normal",
+    "input": {
+      "query": "Vật phẩm nào thường được đặt ở hai bên hoặc phía trước mâm cỗ?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_012"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "9a5b4441e23d04dab8b45f8aa8f2e00122a8e6d303bca0facd21939e598cd351",
+    "case_type": "normal",
+    "input": {
+      "query": "Đồ vật như lọ hoa, mâm ngũ quả lớn có nên đặt ở đâu?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_012"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "a58805a01520c503cc8c7b633e2cc067d2c83d9dea8147dcfb23615ed8e58f3d",
+    "case_type": "normal",
+    "input": {
+      "query": "Đối xứng hai bên bàn thờ có tác dụng như thế nào trong không gian thờ cúng?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_013"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "f0f3d33d7f551acaef4fd2f11c2bcaabb8011a77d750bde8c5380791b42c8a2d",
+    "case_type": "normal",
+    "input": {
+      "query": "Có bao nhiêu bước thực hiện nghi lễ cúng Mùng 1 âm lịch được đề cập trong văn bản?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_013"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "31d35716c5121e49ef4cf1a6f653e36c9d118c46636cf7675214903fac6c7cc0",
+    "case_type": "normal",
+    "input": {
+      "query": "Nếu gia chủ không tuân thủ yêu cầu về trang phục khi thực hiện nghi lễ, liệu có ảnh hưởng gì đến quá trình cúng?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_013"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "fa0986a08930af4d9c238cd479a07ad8bfdbe70f6c2b22c9273fa4c4689bddce",
+    "case_type": "normal",
+    "input": {
+      "query": "Bước nào trong quy trình thực hiện nghi lễ cúng Mùng 1 âm lịch đề cập đến việc bao sái và lau dọn bàn thờ?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_013"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "f803660bacecde588ea89a088cb80b02c960ea766afee2f8efd4dcfd1044b7f2",
+    "case_type": "normal",
+    "input": {
+      "query": "Ngoài việc làm sạch bàn thờ, gia chủ cần chuẩn bị gì khác trong bước 1?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_013"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "968ee4dc8a431b247bb6b58fec068ffd9a318c9213ecae48d2f218f124bd6b91",
+    "case_type": "normal",
+    "input": {
+      "query": "Nếu gia chủ muốn giữ tâm trạng thanh tĩnh, họ nên làm gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_013"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "9c4e1182aff578d6b1b23634c32715c66fe25a12a07dfad0a2a37937ac6f557a",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong văn bản, những loại trang phục cụ thể nào được đề xuất cho gia chủ khi thực hiện nghi lễ?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_013"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "e958378417bb84341f998eccacb8e94ee1acebe6f0ba4ea9fda400b93e234857",
+    "case_type": "normal",
+    "input": {
+      "query": "Tại sao việc lau dọn bàn thờ được coi là bước đầu tiên trong quy trình cúng Mùng 1 âm lịch?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_013"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "1bc92fc7a099dc0bfe19f2ead05be478e2a3c2a1dd56f301f51afd655dbd2b80",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong văn bản, có đề cập đến bao nhiêu bước trong quy trình thực hiện nghi lễ cúng Mùng 1 âm lịch?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_013"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "98c35e6e56e652e53513cfa6b28b2ed3a42a65ed84b53b8414d15cae0e46c89e",
+    "case_type": "normal",
+    "input": {
+      "query": "Những vật dụng nào nên được lau sạch trên bàn thờ?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_014"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "aa62b1269afa2a33a1ec5cee8233737445b16c59fc975bff5b1041a9e70f7ed2",
+    "case_type": "normal",
+    "input": {
+      "query": "Nước gì thường được rót vào ly khi bày lễ lên bàn thờ?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_014"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "9be72d3e9e7969804a5e98d49eae7ee122b179db44b83b5e1d5ff46470f39eaa",
+    "case_type": "normal",
+    "input": {
+      "query": "Theo quy tắc 'Đông Bình - Tây Quả', bình hoa và mâm quả nên đặt ở đâu?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_014"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "9ad3bf082c8f266ea1f422fae04c827b10ded64d6131c365cfc6767eeca1a928",
+    "case_type": "normal",
+    "input": {
+      "query": "Bàn thờ cần lau gì trước khi bày lễ?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_014"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "2bee25bb919238597a10ba48a096555b31bd4a0ab23f2e60bcd2c4aa42a15a6f",
+    "case_type": "normal",
+    "input": {
+      "query": "Sau khi bày lễ, ta thực hiện bước nào tiếp theo trong nghi thức?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_014"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "3974391321d2a9222599ea0c80c5445bd4ada875a3a2b39ad3eab9fceccbbd55",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ vật cần được bố trí theo quy tắc gì trên bàn thờ?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_014"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "ac3d56c2479522d89f7f55937abbb0ba18608b3991db6e5198c9c9bc3e27b277",
+    "case_type": "normal",
+    "input": {
+      "query": "Có bao nhiêu ly nước được rót lên khi bày lễ?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_014"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "dd78a4c4fab4ad83cc9188721246b732d2cba824c7260f3bb5940f219beebd1a",
+    "case_type": "normal",
+    "input": {
+      "query": "Việc lau bàn thờ và cốc chén bằng khăn thấm gì được đề xuất?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_014"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "d17cd6cdc2aa704a6b3885d45eac1204860f5152951cdbb14fbc6edeec7355eb",
+    "case_type": "normal",
+    "input": {
+      "query": "Bước cuối cùng trong nghi thức bày lễ trên bàn thờ là gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_014"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "9b159ba31d68abf06453d2baf8000628158e867f683473ea99a759edd9f094c6",
+    "case_type": "normal",
+    "input": {
+      "query": "Khi nào nên mở cửa chính hoặc cửa sổ quanh khu vực thờ tự?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_015"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "2c31be7dae80a2a8cf873e3594d0957fcbc8113acf778aea4ee789850499fcdb",
+    "case_type": "normal",
+    "input": {
+      "query": "Những gì cần thắp trước bàn thờ trong nghi lễ này?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_015"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "ba1066f0ccbe14b181d18a32cdf7a3046e51ee68fe16f3fa798f3da6dab3dc71",
+    "case_type": "normal",
+    "input": {
+      "query": "Số lượng hương nên thắp như thế nào?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_015"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "769eecaae1983438cba82b9b7ffe2fccf0b52dfe12e291903eaccc2add5f057e",
+    "case_type": "normal",
+    "input": {
+      "query": "Phương pháp thắp hương là gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_015"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "cea308221ecf642f74b1e3d05fb09f512482583af104bc19819f970a7e3d7186",
+    "case_type": "normal",
+    "input": {
+      "query": "Lửa nên được tắt như thế nào?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_015"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "6e43f8931df4fd2af3fbeb40b2c3b2ffe94429acd6c23ebe1779d4e0daa07708",
+    "case_type": "normal",
+    "input": {
+      "query": "Khi cắm hương, người ta cần làm gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_015"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "c00751e4dcbb53e515f2a5849df8e374a6c80cb472ff8bfb1cea43d23e10a9b9",
+    "case_type": "normal",
+    "input": {
+      "query": "Bài văn khấn được đọc khi nào trong nghi lễ này?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_015"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "be78f6031447eb338d92a53e86e2d5cb5555f7986a49619c94b26b5610b57c61",
+    "case_type": "normal",
+    "input": {
+      "query": "Cần phải thắp nến/đèn ở đâu?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_015"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "9ae90de629e0ac6e8f8ef19db362e8893205f82ff08a154f36b7690550a80140",
+    "case_type": "normal",
+    "input": {
+      "query": "Tại sao nên thắp theo số lẻ?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_015"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "067186d930b56ea959bb8088a0010fccbc04097242a7cbb760c59c48a5c968c4",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong nghi lễ này, người thực hiện cần làm gì trước tiên?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_016"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "331f02c7b35fd55425dbb6bdaa16847c402d3f4d5a65099c40b7d94e9dfc41e8",
+    "case_type": "normal",
+    "input": {
+      "query": "Sau khi chuẩn bị xong, bài văn khấn Mùng 1 được đọc như thế nào?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_016"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "046f898dead1df26d636bcf57aaa7998845c32260c0acce761b967175aacea86",
+    "case_type": "normal",
+    "input": {
+      "query": "Nội dung của bài khấn bao gồm những gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_016"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "4fb68b874d79bcd8dbcaec197a13486af646204352ec0a4778c1374fbcff7dbe",
+    "case_type": "normal",
+    "input": {
+      "query": "Sau khi khấn xong, người thực hiện cần làm gì tiếp theo?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_016"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "504f448c484911765e7b69309476e114ea9366101ffdc03669a1130b6f0da59c",
+    "case_type": "normal",
+    "input": {
+      "query": "Thời gian đợi sau khi khấn như thế nào?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_016"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "3edbae9f4218a0f9d2ff9af32707e5fb62c3893bf976e25ad466cd9f5afce43d",
+    "case_type": "normal",
+    "input": {
+      "query": "Ngoài nghi lễ khấn, còn có bước nào khác trong quá trình này?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_016"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "d0634f139daa7cbcb916888ec9ec2f54b0279d3cd413d67e828d149caa0f9e1c",
+    "case_type": "normal",
+    "input": {
+      "query": "Khi nào thì việc Hạ lễ & Hoá vàng được thực hiện?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_016"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "c928e2df3d710c9d897683bc6333a43ed5ead78a406dafa27713abb17a305cd1",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong nghi lễ, người thực hiện có cần thay đổi tư thế đứng không?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_016"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "b4adbff633fdcad3fb7ddf1bf02cc3bf242c2633d68829fe313544667d980953",
+    "case_type": "normal",
+    "input": {
+      "query": "Đọc bài khấn Mùng 1 có mục đích gì trong nghi lễ này?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_016"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "c739934a079d12a984a152b66a0978626231fa2a8ff288b520a54e98773c53eb",
+    "case_type": "normal",
+    "input": {
+      "query": "Trước khi hạ lễ, người ta cần làm gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_017"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "a803254af4e94e841f733aed66caae2a9dab652a71ec14439440d8a7684de3d2",
+    "case_type": "normal",
+    "input": {
+      "query": "Việc hóa vàng cần chú ý điều gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_017"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "e30576d377ae53e4c833bece38a76f33f6f0552f67611e583873f09ed011609b",
+    "case_type": "normal",
+    "input": {
+      "query": "Sau khi cúng xong, đồ lễ được làm gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_017"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "3af7a0aaa8c337408f235ad642ef2bf483ef5d558a7602c0778d469abcf5d6df",
+    "case_type": "normal",
+    "input": {
+      "query": "Có cần mang tiền vàng mã đi đốt không?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_017"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "e8d83ac60c41573c9203cf1d7eb7743801d4588fc6237435576efbf36d838937",
+    "case_type": "normal",
+    "input": {
+      "query": "Việc đốt vàng phải làm sao để đảm bảo?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_017"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "4dc5200c76c656a9cf0dfffe4d51a65f7fda7defdfc64008936c901bd017eb41",
+    "case_type": "normal",
+    "input": {
+      "query": "Nơi nào để đốt vàng mã?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_017"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "d0669fe36f0d395c8cb98477bf1f229919ca1a6d3b69a9c9ce2b5c805ad17420",
+    "case_type": "normal",
+    "input": {
+      "query": "Lý do làm sao phải chia sẻ hoa quả, đồ lễ sau khi cúng?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_017"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "aafdce4fb161665a602de0b6d8fbc06a3e25a9892f2e191bdee4dce0c0328698",
+    "case_type": "normal",
+    "input": {
+      "query": "Cách xin phép trước khi hạ lễ như thế nào?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_017"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "a4a5b6b36e0e1f3568988c3b865f52400726600d0574f24282d565852c3a3ed4",
+    "case_type": "normal",
+    "input": {
+      "query": "Nói về việc Nam mô A Di Đà Phật vào bài khấn có ý nghĩa gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_017"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "223b629057689f87dc9ee4187705bc7d7451cd9f11ca37360195d0d2405f4650",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong lễ tế này, tín chủ cầu mong điều gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_018"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "a853298670c0671378513008179dfe9772b1a1e0203c5e03633e360ef3a64e8d",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ vật trong bài văn có liệt kê những gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_018"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "c8a31cb7163268b45e276ee6d85d7ed97db75a673a01feafd431140ea35889f4",
+    "case_type": "normal",
+    "input": {
+      "query": "Đối tượng nào được tín chủ kính mời trong lễ tế này?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_018"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "2e91cd62a6eeffe9ab930cecb7399d27b7b57fda5ed97357813d031871f916df",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ vật được dâng lên trước án như thế nào?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_018"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "38f84870c391c6659861e02b14fae5ca9477accf04cca1a62b9ac857ffa4d294",
+    "case_type": "normal",
+    "input": {
+      "query": "Các vị thần nào được tín chủ kính mời giáng lâm trước án?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_018"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "fafde5d5a76ad98599db3f4e3373f62f8d58c3f2cdfd8329361996d785786773",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ tế này diễn ra vào ngày gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_018"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "8350f4c1a2e562ec4eeb6e38a0408d599e80cca151c212735fc87c4dc1ee295f",
+    "case_type": "normal",
+    "input": {
+      "query": "Các vị thần được kính mời có công dụng gì trong lễ tế?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_018"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "9ad406904e008a8914208bc18d833c1b66e46ed5d60bc9231d7f6ba4f4fc5dac",
+    "case_type": "normal",
+    "input": {
+      "query": "Tín chủ cầu mong điều gì khi sắm lễ?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_018"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "52ffc688f00a669c76178172a7d8b7d91785e343e01425039549849de38a3bf4",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ tế diễn ra trong bối cảnh nào?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_018"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "edd3314e7e0e8a03bf8d97833e56d547101914efb64923024bb7976adf927552",
+    "case_type": "normal",
+    "input": {
+      "query": "Tín chủ đang mời ai đến dự lễ?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_019"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "30f4074d1c3ee0cf1e090c7128e8d114024b13229fe672ce4d314436da422e7c",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ vật được cử ra để làm gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_019"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "563087b63cca6e9639acce53da5f1d4f0a5f432a90706c28255e78e208bfad5f",
+    "case_type": "normal",
+    "input": {
+      "query": "Ai là những người được kính mời thứ hai trong văn bản này?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_019"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "ba8b7a7c419f72828259b2a2eb8061b505938b81e332319917263667fc8f6703",
+    "case_type": "normal",
+    "input": {
+      "query": "Các vị Tiền chủ và Hậu chủ ở đâu?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_019"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "f880e9a8b643f1729587d3af9061550e26e4ce1929f5129dde5c911cfa7c884f",
+    "case_type": "normal",
+    "input": {
+      "query": "Đối tượng nào được mong muốn phù hộ cho gia chúng con?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_019"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "e185914bd1cee64be41c97634712d37ba73f5117898510b98cf25272f1582f30",
+    "case_type": "normal",
+    "input": {
+      "query": "Công việc của tín chủ trong lễ này là gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_019"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "444fa924a866ad971454e9902184e261f6a9a7d86e25243e72d5383f8fcc23af",
+    "case_type": "normal",
+    "input": {
+      "query": "Tín chủ mong muốn điều gì từ các vị Tiền chủ và Hậu chủ?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_019"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "017026e5a404db71667c993a70276c5e6c96c5db5769aea99ec14207e952023c",
+    "case_type": "normal",
+    "input": {
+      "query": "Sự mục đích của tín chủ khi thực hiện lễ này?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_019"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "ec8c55f36ea5ed719c099f6ba2d2c5907bde241a41747aa8ccefd408eaf780d1",
+    "case_type": "normal",
+    "input": {
+      "query": "Những ai được kính mời trong buổi lễ này?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_019"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "91babc630a31e04d4bd656a207f7e6002b7557e546db5d69ee315dbbc8b55af3",
+    "case_type": "normal",
+    "input": {
+      "query": "Nam mô A Di Đà Phật được lặp lại bao nhiêu lần trong văn bản gốc?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_020"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "045ef361b7747440c4e1f8bd0c4987740f978a5243ad4986c1b0d8d5e604fd65",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong câu Nam mô A Di Đà Phật, từ 'Nam mô' có ý nghĩa gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_020"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "da035625e09eb83d122fc45ff14ef1c18e846bcffa9e1fd7a4844d0e5c340bea",
+    "case_type": "normal",
+    "input": {
+      "query": "Văn bản gốc đề cập đến bao nhiêu lạy?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_020"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "ba4500c0575255dc4655cf37d9010e440068429b399e5d6d29148113007a6416",
+    "case_type": "normal",
+    "input": {
+      "query": "Phật giáo có bao nhiêu chúa Phật chính?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_020"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "454acb4fbf8da894a967c9d4e564a2e77650a4bed156813d234ec40c261a350e",
+    "case_type": "normal",
+    "input": {
+      "query": "Từ 'A Di Đà' trong Nam mô A Di Đà Phật có ý nghĩa gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_020"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "9ba931fe7b8443f0cd1b0c19d646852adb2b638dce007c6a351dad8561182dbf",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong văn bản, từ 'Phật' có ý nghĩa như thế nào?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_020"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "373a79cd875dbe60756eb35e5b4c9d069e6b18ece304d36dd7b7a76cf1bbf89b",
+    "case_type": "normal",
+    "input": {
+      "query": "Văn bản này được sử dụng trong ngữ cảnh nào?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_020"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "e5d4cb743fa2ab810a0ea7cf42aead01264b43a998d0227fba05e63b087cc154",
+    "case_type": "normal",
+    "input": {
+      "query": "Có bao nhiêu hành động lặp lại trong văn bản?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_020"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "544f2737fe5cb401e07a2988e2bdc9c0167c52b1691c474f353fbd73fc5d3e27",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong phật giáo, 'Nam mô A Di Đà Phật' được sử dụng như thế nào?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_020"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "d55bbab59cdd93ee833f82d41b03669486dfc8f592e931dd572dcdcd0edbbb59",
+    "case_type": "normal",
+    "input": {
+      "query": "Mùng 1 âm lịch có tên gọi là gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Tên gọi của Mùng 1 âm lịch là Ngày Mùng 1 âm lịch (còn gọi là ngày Sóc).",
+      "source_ids": [
+        "doc_000"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "86c1ef7117b244512d79fac15000508c792b354c586452c4b8b7af65a6819770",
+    "case_type": "normal",
+    "input": {
+      "query": "Ngày Mùng 1 âm lịch liên quan đến điều kiện nào về mặt thiên văn?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Mùng 1 âm lịch là thời điểm Mặt Trăng, Trái Đất và Mặt Trời cùng nằm trên một đường thẳng.",
+      "source_ids": [
+        "doc_000"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "354350bd3418e59612e89a3ac74f8595f67ec2825b46bfa7ba1e7db1baae7ba7",
+    "case_type": "normal",
+    "input": {
+      "query": "Tại sao gọi ngày Mùng 1 âm lịch là Sóc?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Ngày Mùng 1 âm lịch được gọi là Sóc vì xuất phát từ chữ Hán '朔', nghĩa là khởi đầu, sự sống mới.",
+      "source_ids": [
+        "doc_000"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "e63979be0e7fa83b84a09b63ef15379c979eadf2db684ee8bcb64fbf70923f3d",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong một chu kỳ trăng, ngày nào sẽ không có trăng?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Ngày không có trăng trong một chu kỳ trăng là ngày Mùng 1 âm lịch.",
+      "source_ids": [
+        "doc_000"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "89bab97aa0f4fd5efd60cae830559a87eea70abf90c46a02c14051507400d1da",
+    "case_type": "normal",
+    "input": {
+      "query": "Tại sao ngày Mùng 1 âm lịch thường không có trăng visible?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Do Mặt Trăng quay phần không được chiếu sáng về phía Trái Đất, tạo nên hiện tượng không có trăng (đêm tối hoàn toàn).",
+      "source_ids": [
+        "doc_000"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "54c7abbf5486c6da206772673955172e85cc196727303e9854fe7ca54da05186",
+    "case_type": "normal",
+    "input": {
+      "query": "Một tên gọi khác của ngày Mùng 1 âm lịch là gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Ngày Mùng 1 âm lịch còn được gọi là ngày Sóc.",
+      "source_ids": [
+        "doc_000"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "60a1a9468a8e40ec573ca4623b3e9a7453243df58631fc5412b94b0f59208c8c",
+    "case_type": "normal",
+    "input": {
+      "query": "Định nghĩa về Mùng 1 âm lịch bao gồm những nội dung nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Định nghĩa về Mùng 1 âm lịch bao gồm tên gọi, bản chất thiên văn và nguồn gốc của nó.",
+      "source_ids": [
+        "doc_000"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "4b836146053a02788d92752410d33a2dcfe026d1080977eb48a959fa15d3337f",
+    "case_type": "normal",
+    "input": {
+      "query": "Bản chất thiên văn của ngày Mùng 1 âm lịch là gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Bản chất thiên văn của ngày Mùng 1 âm lịch là thời điểm Mặt Trăng, Trái Đất và Mặt Trời cùng nằm trên một đường thẳng.",
+      "source_ids": [
+        "doc_000"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "e4002ee34e6d45a045880eb157c14d6154ed9c018e2cf86fde0ae5c987d68c9b",
+    "case_type": "normal",
+    "input": {
+      "query": "Ngày Mùng 1 âm lịch thuộc phạm vi nào về mặt tôn giáo?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Văn bản không nêu rõ phạm vi tôn giáo của ngày Mùng 1 âm lịch, chỉ đề cập đến định nghĩa và bản chất thiên văn.",
+      "source_ids": [
+        "doc_000"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "26e851caf7af80ecd6aef05b0949b1cc5f114b2e99fcd768be06e46548b7a38d",
+    "case_type": "normal",
+    "input": {
+      "query": "Tượng trưng cho sự gì theo ý nghĩa tâm linh của ngày này?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Tượng trưng cho sự đổi mới, cát tường, 'đầu xuôi đuôi lọt'.",
+      "source_ids": [
+        "doc_001"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "19907536fcfb4cbf3618797f67e0cdfedb8151142e0d6e5c63fa21600fd0213a",
+    "case_type": "normal",
+    "input": {
+      "query": "Gia chủ làm gì trong dịp này để cầu mong may mắn và tài lộc?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Dâng lễ xua đi u ám, xui xẻo của tháng cũ và cầu mong may mắn, tài lộc cho tháng mới.",
+      "source_ids": [
+        "doc_001"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "9a8528be717b39a8a4f4192a42a4777a266662b0c94ab009c62f10f99d7e56a0",
+    "case_type": "normal",
+    "input": {
+      "query": "Theo Phật giáo, ngày này có ý nghĩa gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Được coi là ngày nuôi dưỡng lòng từ bi, hướng thiện.",
+      "source_ids": [
+        "doc_001"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "9f5ea80dd66682be8d15cd4719c8f0e29ac2c08609bb48278c06c91601ecdb7c",
+    "case_type": "normal",
+    "input": {
+      "query": "Tăng ni và Phật tử thường làm gì trong ngày này theo Phật giáo?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Tăng ni, Phật tử thường ăn chay, đi chùa sám hối, nghe giảng pháp và giữ gìn ngũ giới để tích đức.",
+      "source_ids": [
+        "doc_001"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "bb2e007f6c6f0f93e3aae0ba78dda9bfa222b55ef2384415a4f27e7cad48d290",
+    "case_type": "normal",
+    "input": {
+      "query": "Điều gì tượng trưng cho sự đổi mới theo văn bản này?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Cát tường, 'đầu xuôi đuôi lọt'.",
+      "source_ids": [
+        "doc_001"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "adda947a3297e831b6ad94fd2d4069cbb9e24101079a8879737a66464dc41f2b",
+    "case_type": "normal",
+    "input": {
+      "query": "Gia chủ làm gì để xua đi u ám và xui xẻo?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Dâng lễ.",
+      "source_ids": [
+        "doc_001"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "fbf040101b791b2742ff7fdbe407b225455740f22e179fa8a04eddb229a8423a",
+    "case_type": "normal",
+    "input": {
+      "query": "Ngoài việc nuôi dưỡng lòng từ bi, hướng thiện, ngày này còn có ý nghĩa gì khác trong Phật giáo?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Ăn chay, đi chùa sám hối, nghe giảng pháp và giữ gìn ngũ giới để tích đức.",
+      "source_ids": [
+        "doc_001"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "744067e3ebc986880de710af7589012d83f19456c1d27a0b531805ed7059cb27",
+    "case_type": "normal",
+    "input": {
+      "query": "Cầu mong điều gì cho tháng mới?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "May mắn và tài lộc.",
+      "source_ids": [
+        "doc_001"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "dc87f6a96d10939017c8726459ea6afbe82d5837af7b09c0b7a3cde2c9059bf0",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong Phật giáo, việc đi chùa sám hối vào ngày này có ý nghĩa như thế nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Hướng thiện, nuôi dưỡng lòng từ bi, và giữ gìn ngũ giới để tích đức.",
+      "source_ids": [
+        "doc_001"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "09d6f8855505ecbd2e01467e9ad2256512cba757b6aa83355cdbd8f434c4652f",
+    "case_type": "normal",
+    "input": {
+      "query": "Tín ngưỡng Dân gian Việt Nam liên quan đến những người hoặc vị trí nào trong các nghi lễ?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Trọng tâm lễ cúng nhằm thỉnh nguyện Chư vị Tôn thần (Hoàng thiên Hậu thổ, Bản gia Thổ Công, Táo Quân) và Thần Tài - Thổ Địa.",
+      "source_ids": [
+        "doc_002"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "d92fdcf86314d82efd7b81515d2aea0c0efc5bb6441592086a611b27b327738e",
+    "case_type": "normal",
+    "input": {
+      "query": "Tín ngưỡng Dân gian Việt Nam có mục đích chính là gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Để xin hanh thông, tài lộc.",
+      "source_ids": [
+        "doc_002"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "bafc6125ed3ef3ff84b6d86fc136d3179b5adffd2551b8aa1226feedc044f7b5",
+    "case_type": "normal",
+    "input": {
+      "query": "Dân gian Việt Nam tin rằng ngày lễ cúng này giúp họ liên hệ với những lực lượng nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Là ngày giao hòa giữa con người với Thần linh và Cửu huyền thất tổ.",
+      "source_ids": [
+        "doc_002"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "5f1ff1f0f0c38fbfbd07b5ab94818ac17b7a771e16677d1fd1a3ba409458c724",
+    "case_type": "normal",
+    "input": {
+      "query": "Văn hóa tín ngưỡng dân gian có sự khác biệt ở các vùng miền không?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Không được đề cập trong văn bản gốc.",
+      "source_ids": [
+        "doc_002"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "3debf7978599f7574d09831c6ea1bdd7f7f181214259b91cc460d05336bc76dc",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong lễ cúng, gia đình kinh doanh sẽ thỉnh nguyện ai?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Thần Tài - Thổ Địa.",
+      "source_ids": [
+        "doc_002"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "87f0f7498050a1fda4190e38731ce5ab38c8ee7e49bf7eed3d6fa6e2558ad646",
+    "case_type": "normal",
+    "input": {
+      "query": "Tín ngưỡng Dân gian Việt Nam bao gồm những gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Là ngày giao hòa giữa con người với Thần linh và Cửu huyền thất tổ.",
+      "source_ids": [
+        "doc_002"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "3568c7257a592bdf191e286e10e4e3d8ec23dc02b7e5679d1d8ca8eecec6a28d",
+    "case_type": "normal",
+    "input": {
+      "query": "Các vị Tôn thần được thỉnh nguyện trong lễ cúng dân gian bao gồm những ai?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Chư vị Tôn thần (Hoàng thiên Hậu thổ, Bản gia Thổ Công, Táo Quân).",
+      "source_ids": [
+        "doc_002"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "6e3ecc2a9fa1bd399c3535e7da278431b16418fbec08be08ef6e7e1b927b50c3",
+    "case_type": "normal",
+    "input": {
+      "query": "Tín ngưỡng Dân gian Việt Nam có liên quan đến kinh doanh không?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Có, đối với gia đình kinh doanh sẽ thỉnh nguyện Thần Tài - Thổ Địa.",
+      "source_ids": [
+        "doc_002"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "b84aa855f788ed6ce59a49a8fc4a92ffdc03caf58b4264fd859f72bc53442804",
+    "case_type": "normal",
+    "input": {
+      "query": "Văn hóa tín ngưỡng dân gian được nhấn mạnh ở điểm nào trong văn bản?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Điểm chính là mục đích của lễ cúng và những vị Tôn thần được thỉnh nguyện.",
+      "source_ids": [
+        "doc_002"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "e3ea946719ef0d046d25c08d074638463087bca158ecd0570e595efd7df6ce88",
+    "case_type": "normal",
+    "input": {
+      "query": "Miền Bắc coi trọng điều gì trong các lễ nghi tâm linh?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Miền Bắc coi trọng sự chuẩn chỉnh, đúng quy chuẩn tâm linh và nghi thức cữ kiêng.",
+      "source_ids": [
+        "doc_003"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "731b3d90f993fdf25fd9b14d56c4d10e82d08f2d1a6bbf69f70fe78c1039b7cc",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ vật nào thường được dùng để cúng Gia tiên ở miền Bắc?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Thổ Công và Gia tiên được thắp hương trong các lễ cúng của miền Bắc.",
+      "source_ids": [
+        "doc_003"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "9bb1de22a5a0d65c98e4849c56c6db116d1c62d7e524ad5fc2f48841ae4d7bc7",
+    "case_type": "normal",
+    "input": {
+      "query": "Miền Bắc ưu tiên cúng lễ chay như thế nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Ưu tiên cúng lễ chay nhẹ nhàng (xôi gấc, hoa tươi, quả ngọt) để giữ sự thanh tịnh đầu tháng ở miền Bắc.",
+      "source_ids": [
+        "doc_003"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "536b1c32b939895c5c9f3f9fd4973b79860c7d5193d92f6c3fad79652b64fc7c",
+    "case_type": "normal",
+    "input": {
+      "query": "Miền Trung cúng từ giờ gì trong ngày?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Cúng từ rất sớm (5h - 7h sáng) khi không khí thuần khiết nhất ở miền Trung.",
+      "source_ids": [
+        "doc_003"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "2f33b6a3f8fe372c80c70c4c2376d06f797cc3ba76923f804eb988ad798a458b",
+    "case_type": "normal",
+    "input": {
+      "query": "Miền Trung coi trọng điều gì trong các lễ cúng?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Miền Trung mang tính trầm mặc, coi trọng sự bình an và né tránh tai ương, thiên tai trong tháng.",
+      "source_ids": [
+        "doc_003"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "f3349e0c391b92de6403776f5c0acb34c1fe5d345d2a0cb7fdc9d01200e7e01c",
+    "case_type": "normal",
+    "input": {
+      "query": "Tại sao miền Trung phải cúng từ sớm như vậy?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Việc cúng từ rất sớm (5h - 7h sáng) là để cầu xin sự êm ấm cho cả tháng ở miền Trung.",
+      "source_ids": [
+        "doc_003"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "19f81709dc9e6799fc173020359ba9144e75e36894d7e52b5a64ead30e7aa83d",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ vật nào thường được dùng khi cúng tại miền Trung?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Không có thông tin chi tiết về lễ vật cụ thể khi cúng ở miền Trung trong văn bản gốc, nhưng nói chung họ coi trọng sự bình an.",
+      "source_ids": [
+        "doc_003"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "56dd843638fcfa483715f9885c4aef3e5e5204db90f06991fcab4a0ec135682f",
+    "case_type": "normal",
+    "input": {
+      "query": "Miền Bắc và miền Trung khác biệt như thế nào trong các nghi lễ tâm linh?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Miền Bắc chú trọng vào sự chuẩn chỉnh và cúng nhẹ nhàng; miền Trung thì mang tính trầm mặc, coi trọng sự bình an và cầu xin tránh tai ương.",
+      "source_ids": [
+        "doc_003"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "1d07b917ce638df9d627d3e41c88a24721254d2c44c50131c5ce2212c273a77b",
+    "case_type": "normal",
+    "input": {
+      "query": "Các địa phương nào được đề cập trong văn bản?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Văn bản đề cập đến miền Bắc và miền Trung.",
+      "source_ids": [
+        "doc_003"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "a86d05853e0de94be28586e1f15e01280414660a742cce7ea8cae3f4c2014850",
+    "case_type": "normal",
+    "input": {
+      "query": "Miền Nam có phong cách sống như thế nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Miền Nam có nhịp sống phóng khoáng, tập trung mạnh vào mục tiêu công việc.",
+      "source_ids": [
+        "doc_004"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "ee406b0a6c89ff07b05230b98f020fb216486e3e4f9fa77756322c61622e0473",
+    "case_type": "normal",
+    "input": {
+      "query": "Đặc điểm gì đặc biệt ở miền Nam về mặt tín ngưỡng?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Đặc biệt chú trọng bàn thờ Thần Tài - Thổ Địa ở miền Nam.",
+      "source_ids": [
+        "doc_004"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "765fa8b505d154c4b6694695048b25d0a2b1b06d8bfcb1e02b222f1a6963b671",
+    "case_type": "normal",
+    "input": {
+      "query": "Mâm lễ truyền thống của miền Nam thường có những loại quả nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Mâm lễ chuộng ngũ quả ",
+      "source_ids": [
+        "doc_004"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "38210b1213d4aa62ad10306bbb89e9a81906bd5fcd7206e61b308abb8165eee6",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ cúng Gia tiên & Thần linh bản gia được thực hiện ở đâu?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Thực hiện tại gia đình.",
+      "source_ids": [
+        "doc_005"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "d434c47d260ec9b60f4aa7baf03b3c72a8ab1741887d964819b8d70895641fa0",
+    "case_type": "normal",
+    "input": {
+      "query": "Địa điểm nào không phù hợp để thực hiện Lễ cầu an & Sám hối?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Gia đình.",
+      "source_ids": [
+        "doc_005"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "a7a0c5d950c49ea25699ad5b07a4ccfd5ac08789af11a2f8647228306214a6f5",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ khai quang / Xin lộc làm ăn được tổ chức ở đâu?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Cửa hàng, công ty, bàn thờ Thần Tài.",
+      "source_ids": [
+        "doc_005"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "99b7ad3b822a4b8562b6ceaa86c0cd7f1980075fffc3b0ec2d9907b4f257d7be",
+    "case_type": "normal",
+    "input": {
+      "query": "Nơi nào không thể thực hiện Lễ cúng Mùng 1 theo văn bản?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Không gian tâm linh nổi tiếng theo từng vùng miền.",
+      "source_ids": [
+        "doc_005"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "b00330edc907deec095a1fa3cc327f74813bf1b6e13082c49f3bbaed449d2ca6",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ cầu an & Sám hối có thể thực hiện ở đâu ngoài Chùa, Đền, Phủ?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Không không gian tâm linh nổi tiếng theangered.",
+      "source_ids": [
+        "doc_005"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "39f69ca70aac0aeec0e268e7d6520442903f555c020ce7e5f294dc9d214603c7",
+    "case_type": "normal",
+    "input": {
+      "query": "Vùng miền nào được đề cập trong văn bản?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Miền Bắc.",
+      "source_ids": [
+        "doc_005"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "c8e3316bbf7b344fe877132b2b210a8e11df08ea08e4aefbcad1945ddfcffaf2",
+    "case_type": "normal",
+    "input": {
+      "query": "Bàn thờ Gia tiên / Thần linh tại nhà có vai trò gì trong lễ cúng Mùng 1?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Đây là địa điểm quan trọng nhất để thực hiện việc cúng.",
+      "source_ids": [
+        "doc_005"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "916c6be2690ebb8a4f7267e9e560b87ffcd4870f11beb5654d1db1c3d44ec943",
+    "case_type": "normal",
+    "input": {
+      "query": "Ngoài gia đình, còn đâu khác có thể thực hiện Lễ cầu an & Sám hối?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Chùa, Đền, Phủ.",
+      "source_ids": [
+        "doc_005"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "82ecc3e7ae98b4ed603a8a4be872289acfa402e31ae5bcd6c6b16ac4d907c2c9",
+    "case_type": "normal",
+    "input": {
+      "query": "Văn bản đề cập đến bao nhiêu loại lễ cúng được liệt kê?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "4",
+      "source_ids": [
+        "doc_005"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "c53727001984e5a6f8850712ab3c880dfba1c75da69e1659de92da7c6d0fcb97",
+    "case_type": "normal",
+    "input": {
+      "query": "Chùa nào ở Hà Nội nổi tiếng cầu tài lộc?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Chùa Quán Sứ và Phủ Tây Hồ (cầu tài lộc).",
+      "source_ids": [
+        "doc_006"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "4e853fa82fe0fce42cf48535d7866b3b7e2dc0b64af200539d86fb6e82ac97ca",
+    "case_type": "normal",
+    "input": {
+      "query": "Nơi thờ Bà Chúa Xứ Núi Sam nằm ở đâu?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Miếu Bà Chúa Xứ Núi Sam nằm ở An Giang.",
+      "source_ids": [
+        "doc_006"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "c2d79bd1a6b01a92b0b0a3b3933d170a900a3174bff640a4b9af6a45778cac81",
+    "case_type": "normal",
+    "input": {
+      "query": "Chùa nào ở TP. Hồ Chí Minh nổi tiếng cầu công danh?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Chùa Ngọc Hoàng (Phước Hải Tự - nổi tiếng cầu tài lộc/công danh).",
+      "source_ids": [
+        "doc_006"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "eb674766c7e7eaf52fa082a1a3b787360df5b2dc404a6d9ca9ab7ce197d66e4e",
+    "case_type": "normal",
+    "input": {
+      "query": "Đền Ngọc Sơn thuộc quận nào của Hà Nội?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Đền Ngọc Sơn nằm ở trung tâm TP. Hồ Chí Minh.",
+      "source_ids": [
+        "doc_006"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "907f86ca850973db4a2a9f90f7405a22b30423bc6d50a91338c8865ca7435035",
+    "case_type": "normal",
+    "input": {
+      "query": "Chùa Bái Đính nằm ở đâu?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Chùa Bái Đính nằm ở Quảng Ninh / Ninh Bình.",
+      "source_ids": [
+        "doc_006"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "5436583ddea2f82e0da7352077e3fb6e883e4ff8d28867ccb713f0ce01283864",
+    "case_type": "normal",
+    "input": {
+      "query": "Tòa Thánh Tây Ninh thuộc tỉnh nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Tòa Thánh Tây Ninh nằm ở Tây Ninh.",
+      "source_ids": [
+        "doc_006"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "66050dbe22ba61e2ac85319862203eecbd2a9c69aeaf8eacda448c3849660be4",
+    "case_type": "normal",
+    "input": {
+      "query": "Chùa Vĩnh Nghiêm nằm ở đâu?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Chùa Vĩnh Nghiêm nằm ở TP. Hồ Chí Minh.",
+      "source_ids": [
+        "doc_006"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "7ba9cc63468bc1a080a5ec6da72d1c5f8832ed467b6157c5fd99a4fbeb7b5fbe",
+    "case_type": "normal",
+    "input": {
+      "query": "Nơi nào cầu tài lộc ở An Giang?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Miếu Bà Chúa Xứ Núi Sam.",
+      "source_ids": [
+        "doc_006"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "b2eff61a47a93684ed4514b7110f41994c5d3b88b2b295fd73bb3683ae6f1183",
+    "case_type": "normal",
+    "input": {
+      "query": "Chùa nào ở Hà Nam?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Chùa Tam Chúc.",
+      "source_ids": [
+        "doc_006"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "b235982d76135aa548f57e341a724ccd5aad97eccc51d1eb6efb4e868d23d155",
+    "case_type": "normal",
+    "input": {
+      "query": "Chùa nào nổi tiếng với cầu tài lộc và công danh tại TP. Hồ Chí Minh?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Chùa Ngọc Hoàng (Phước Hải Tự)",
+      "source_ids": [
+        "doc_007"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "26cb457cbfb2151e43ce2c770750c18f9930b278bcee205ea1149a3d64ad278b",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ cúng Mùng 1 âm lịch diễn ra vào thời gian nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "từ 7h sáng đến 9h",
+      "source_ids": [
+        "doc_007"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "1a4262550e1a7e94f6b15fffc2fa61e8fa0aca7170662882ad5268dabecc13b7",
+    "case_type": "normal",
+    "input": {
+      "query": "Văn bản đề cập đến bao nhiêu tỉnh/thành phố có chùa được nhắc tên?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "3",
+      "source_ids": [
+        "doc_007"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "a17936f174707ef6af0b4eaa1d17c21da105eadef12a7c6475da5a5b889abfda",
+    "case_type": "normal",
+    "input": {
+      "query": "Chùa Bà Thiên Hậu ở đâu tại TP. Hồ Chí Minh?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "TP. Hồ Chí Minh",
+      "source_ids": [
+        "doc_007"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "a627750c63c19e457133b033d038f91479eb7a0c8b86c307df80c3fc39e6d44f",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ cúng Mùng 1 âm lịch thường được thực hiện vào ngày nào trong tháng?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "mùng 1 lịch âm đầu tháng",
+      "source_ids": [
+        "doc_007"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "706a464575363fa8c8fd583c8b5ef23b0f131a922846745e2f221f95df29b65a",
+    "case_type": "normal",
+    "input": {
+      "query": "Tòa Thánh Tây Ninh và Chùa Bà Đen nằm ở đâu?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Tây Ninh",
+      "source_ids": [
+        "doc_007"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "1943b186ff753dbb631b2c2eee1616586433a088cfd38b161bc9e2154261bc4c",
+    "case_type": "normal",
+    "input": {
+      "query": "Miếu Bà Chúa Xứ Núi Sam ở tỉnh nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "An Giang",
+      "source_ids": [
+        "doc_007"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "95aa2a3a6a747a4989cb85acb2002e979e2b25c6c58b9593172dc58e2ab48e0a",
+    "case_type": "normal",
+    "input": {
+      "query": "Ngoài TP. Hồ Chí Minh, còn có tỉnh/thành phố nào được đề cập trong văn bản?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Tây Ninh và An Giang",
+      "source_ids": [
+        "doc_007"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "440e649d4a02ca335e293fab796ee6e6d426f7fcaf05ce4e467f9abf9b3ec491",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ cúng Mùng 1 âm lịch bao gồm các loại thức ăn nào trên mâm lễ?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Mâm lễ chay/ lễ ngọt",
+      "source_ids": [
+        "doc_007"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "888a0d27eda2738e604bd0b4a46d795fa8b8ff82b79e6ce5616af4469ff704ef",
+    "case_type": "normal",
+    "input": {
+      "query": "Hoa tươi trong lễ vật thường được chọn như thế nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Hoa tươi: Cúc vàng, hồng đỏ, hoa huệ (chọn số lẻ 3, 5, 7 bông).",
+      "source_ids": [
+        "doc_008"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "e7d2b54638441330b9e0a00630d87cbb298e1f66ce3a990ec379ceb983b74eea",
+    "case_type": "normal",
+    "input": {
+      "query": "Mâm ngũ quả chứa những loại trái cây nào trong lễ vật truyền thống?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Mâm ngũ quả: Chuối xanh (ngửa tay đỡ lộc), hồng chín, bưởi, quất/cam.",
+      "source_ids": [
+        "doc_008"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "df3817ee980fd0d23c2e5fbbf338a6b1ccc01c4e7d0fe8a970be20fc41a4d382",
+    "case_type": "normal",
+    "input": {
+      "query": "Trầu cau được chuẩn bị như thế nào để sử dụng trong lễ vật?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Trầu cau: 1 quả cau, 3 lá trầu têm trầu cánh phụng.",
+      "source_ids": [
+        "doc_008"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "09d71b789cdcfa387e838cf4746972753fdc6e16edf56f6446210eb7d5362cc4",
+    "case_type": "normal",
+    "input": {
+      "query": "Có những loại xôi/bánh nào thường được dùng trong lễ vật?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Xôi/Bánh: Xôi gấc (lấy màu đỏ may mắn) hoặc xôi vò, chè mộc.",
+      "source_ids": [
+        "doc_008"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "c1a253da10c668599d903d504efaac8a5c4c36509bd8b538f1b00be81462e16d",
+    "case_type": "normal",
+    "input": {
+      "query": "Hoa tươi có thể chọn được loại nào khác không?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Hoa tươi: Hoa cúc, hoa huệ, hoa lay ơn.",
+      "source_ids": [
+        "doc_008"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "4f55cfbc08366abdebe37c1ef9a5b1ec5308da539d3dbd0533b4aa05d26b108e",
+    "case_type": "normal",
+    "input": {
+      "query": "Mâm ngũ quả trong mùa hè thường bao gồm những gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Mâm ngũ quả: Quả chín theo mùa (mãng cầu, xoài, thanh long, cam).",
+      "source_ids": [
+        "doc_008"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "f6b2c44f94a53120c1f33feedc16a3dbaf520ef35bced5d5918a991e72d9d1b3",
+    "case_type": "normal",
+    "input": {
+      "query": "Trầu cau có thể được chuẩn bị như thế nào khác?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Trầu cau: 1 quả cau, 1 lá trầu.",
+      "source_ids": [
+        "doc_008"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "a26a80d07910fb5459358245123281610754696a3c9ab3dcc96ad3fb857a11a2",
+    "case_type": "normal",
+    "input": {
+      "query": "Ngoài xôi gấc, còn có những loại bánh nào trong lễ vật?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Xôi/Bánh: Đĩa xôi chè nhỏ, bánh ít, bánh tổ hoặc bánh gói lá nhỏ.",
+      "source_ids": [
+        "doc_008"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "08ff07073679cc5dc0a518122237de2a3e8b3959d3ca63672ae3eb3eac63512d",
+    "case_type": "normal",
+    "input": {
+      "query": "Danh sách hoa tươi nào được đề xuất trong văn bản?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Hoa tươi: Cúc kim cương, đồng tiền, cát tường.",
+      "source_ids": [
+        "doc_009"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "3fa1c34271fcb3e1a22602675f9f9f9992e6b1aed3c9e1c23bc44db32bc6278e",
+    "case_type": "normal",
+    "input": {
+      "query": "Mãng cầu thuộc nhóm sản phẩm nào trong mâm ngũ quả?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Mãng cầu thuộc nhóm mâm ngũ quả ",
+      "source_ids": [
+        "doc_009"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "49eaed08378e74b5c01966cf73ce482925bbb29b8409885c008a19550cdcb0a6",
+    "case_type": "normal",
+    "input": {
+      "query": "Đồ ngọt có thể lựa chọn gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Đồ ngọt: Bánh bò, bánh bao, chè trôi nước.",
+      "source_ids": [
+        "doc_009"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "7166300ec8a19fcaf3392cfa8ab353978a1a2c1e4b76e48fc58e6777e398c54c",
+    "case_type": "normal",
+    "input": {
+      "query": "Gà nào được đề xuất trong mâm cỗ mặn?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Gà luộc: Gà trống chéo cánh, da vàng bóng.",
+      "source_ids": [
+        "doc_009"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "f9fbac8c6e5e28599b0195c0b9c36b138df5b266e43d8be0373ebe4f5a4207f8",
+    "case_type": "normal",
+    "input": {
+      "query": "Giò lụa thái lát có nằm trong món kèm nào không?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Món kèm: Giò lụa thái lát, đĩa nem rán, canh bóng/canh măng, xôi gấc.",
+      "source_ids": [
+        "doc_009"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "38d92a3d41f4da07b4c7d41d29003b8f7050d3abd6f9d264ee84782944b25dbd",
+    "case_type": "normal",
+    "input": {
+      "query": "Thịt luộc được cắt thành từng lát như thế nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Thịt lợn luộc xắt lát kèm chén mắm tôm chua/mắm nêm.",
+      "source_ids": [
+        "doc_009"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "dc8f48633e4f66415dd00809bf6f62397d3d3739051832f69d562b0f4c07a165",
+    "case_type": "normal",
+    "input": {
+      "query": "Có món gì có chứa cá trong mâm cỗ mặn không?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Món kèm: Tôm rim, chả ram/nem lụi, cá kho quẹt nhỏ đĩa.",
+      "source_ids": [
+        "doc_009"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "79c914ed586184b67de7219e81a1b5ac0a138eff1c338159187de7d76b7310e2",
+    "case_type": "normal",
+    "input": {
+      "query": "Ngoại trừ chuối, cam, lê, các loại quả nào được đề xuất trong mâm ngũ quả?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Mâm ngũ quả ",
+      "source_ids": [
+        "doc_009"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "566cde00cfdd555e2e821aed1c0bd322f7f0e19dbf8cde88ef036387a2f8a07c",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong mâm cỗ mặn, món gà luộc có da màu gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Gà trống chéo cánh, da vàng bóng.",
+      "source_ids": [
+        "doc_009"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "2f928c303b0bdcd2599cc3acd0a7171e24a29f881247b4b6e1d2a93f890a1b06",
+    "case_type": "normal",
+    "input": {
+      "query": "Sự tượng trưng của thịt kho hột vịt trong lễ cúng là gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Miếng thịt vuông và trứng tròn (tượng trưng cho sự viên mãn).",
+      "source_ids": [
+        "doc_010"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "5cd47c2e8108ad0b420158f17797e92c2b3b907ff680199da73f99f93558a92f",
+    "case_type": "normal",
+    "input": {
+      "query": "Có bao nhiêu ly nước sạch trong đồ cúng bàn thờ Thần Tài?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "5 ly nước sạch.",
+      "source_ids": [
+        "doc_010"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "d299292af27db78e0ff2d5617e5900f1d6ddb30749e2db1ed0f7173ad136e5f0",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong lễ cúng, có món gì được nấu từ gà không?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": " Có gỏi gà xé phay.",
+      "source_ids": [
+        "doc_010"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "a29f1df7413710df6688eb42aeda98d14e950f635549484e481864581a414648",
+    "case_type": "normal",
+    "input": {
+      "query": "Đồ cúng truyền thống bao gồm những vật phẩm nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "3 ly nước sạch, 3 ly rượu, chén muối, chén gạo, tiền vàng mã truyền thống.",
+      "source_ids": [
+        "doc_010"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "60c199503e1dd28b00c7f20710405a3ebf4ec7e75c930eb1cae7f87157cde5b6",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong đồ cúng, có bao nhiêu ly nước sạch?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Có nhiều loại, gồm 3 ly và 5 ly.",
+      "source_ids": [
+        "doc_010"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "38cbdc7483a6be58c481caef8e153ba087c7e3bb469c43d18314f88ffe9757e0",
+    "case_type": "normal",
+    "input": {
+      "query": "Món gì được kèm theo thịt kho hột vịt?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Canh khổ qua dồn thịt, gỏi gà xé phay, chả giò.",
+      "source_ids": [
+        "doc_010"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "59fe663027a8ea6f260dc3e23ef7d072ca8a0224ed98010c3c968de2f989dd3a",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong lễ cúng, đồ dùng rải sau bàn thờ là gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Đĩa muối gạo nhỏ.",
+      "source_ids": [
+        "doc_010"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "9fcde5d3d45d3b52656e99368b9f0e67a9f2e1f48d96de9c77f943ce72ffd425",
+    "case_type": "normal",
+    "input": {
+      "query": "Lý do nào khiến canh khổ qua dồn thịt được nấu?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": " Mong khổ qua đi.",
+      "source_ids": [
+        "doc_010"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "f52d9f109354651f64273eca49019e76d492f1bf712a6999f6db1f7de72b4745",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong đồ cúng bàn thờ Thần Tài, có những vật phẩm gì đặc biệt không?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Bàn thờ Thần Tài có 5 ly nước sạch, đĩa tỏi, thuốc lá, tiền âm phủ/tiền thật lẻ.",
+      "source_ids": [
+        "doc_010"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "49830e6d13cd87179be352ac36dd60e5b0d77fa2af3f34c02a312656d70c7e91",
+    "case_type": "normal",
+    "input": {
+      "query": "Bát hương được đặt ở vị trí nào trên bàn thờ?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Bát hương được đặt ở vị trí trung tâm, chính giữa bàn thờ và lùi về phía trong.",
+      "source_ids": [
+        "doc_011"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "7477c19fe9996bad8d606d8ab5bf27744d197c81bc1998c42734df34fe7a2070",
+    "case_type": "normal",
+    "input": {
+      "query": "Đèn (hoặc nến) và chén nước sạch được sắp xếp như thế nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Đèn (hoặc nến) và chén nước sạch được đặt ở phía trước bát hương.",
+      "source_ids": [
+        "doc_011"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "44c1c18d47402c1a7a0763533460e947a8782998123324cabc3fd96c86418d2f",
+    "case_type": "normal",
+    "input": {
+      "query": "Lọ hoa tươi nên đặt ở đâu trên bàn thờ?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Lọ hoa tươi được đặt ở phía bên trái bàn thờ (tính từ ngoài nhìn vào) theo quan niệm 'Đông bình Tây quả'.",
+      "source_ids": [
+        "doc_011"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "f4e017e78afa59b0e2154ceef48288bbba69e3585a6ba89cbf403d43dfa6a235",
+    "case_type": "normal",
+    "input": {
+      "query": "Đĩa trái cây (mâm ngũ quả) phải đặt tại vị trí nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Đĩa trái cây (mâm ngũ quả) được đặt ở phía bên phải bàn thờ (tính từ ngoài nhìn vào) để tạo sự cân đối.",
+      "source_ids": [
+        "doc_011"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "77c59367ce0ebec3b6b23fe0bc2630ef33ba4b2e16b11c74e082b9e79bef5e74",
+    "case_type": "normal",
+    "input": {
+      "query": "Theo hướng dẫn, bát hương và các lễ vật khác nên được sắp xếp theo trật tự nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Bát hương được đặt ở vị trí trung tâm, chính giữa bàn thờ và lùi về phía trong; đèn (hoặc nến) và chén nước sạch được đặt ở phía trước bát hương; lọ hoa tươi được đặt ở phía bên trái bàn thờ; đĩa trái cây (mâm ngũ quả) được đặt ở phía bên phải bàn thờ.",
+      "source_ids": [
+        "doc_011"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "c15d26694052838473582bf9e6d0a66d122535c91dd4c79b6827a7bc5d482abd",
+    "case_type": "normal",
+    "input": {
+      "query": "Bên nào của bàn thờ nên đặt lọ hoa?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Lọ hoa tươi được đặt ở phía bên trái bàn thờ (tính từ ngoài nhìn vào) theo quan niệm 'Đông bình Tây quả'.",
+      "source_ids": [
+        "doc_011"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "48cd1cc85eeef828e674c32dbebd1de56dfdcd51c5929ee4f101fd7f2ee33392",
+    "case_type": "normal",
+    "input": {
+      "query": "Ở đâu trên bàn thờ thì không thể đặt đèn hoặc nến?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Đèn hoặc nến được đặt ở vị trí trung tâm, chính giữa bàn thờ và lùi về phía trong (bên cạnh bát hương).",
+      "source_ids": [
+        "doc_011"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "a883b6d80773d9442d8e20044244bc86763f68a2830796a676bb9a9ef38608fa",
+    "case_type": "normal",
+    "input": {
+      "query": "Mâm ngũ quả nên đặt ở đâu để phù hợp với nguyên tắc bày biện?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Đĩa trái cây (mâm ngũ quả) được đặt ở phía bên phải bàn thờ (tính từ ngoài nhìn vào) để tạo sự cân đối.",
+      "source_ids": [
+        "doc_011"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "e6e4da7f448c12b8b16cd1809dd7eeb1ef938ba7c519a7ebfed9a8c34ee36b74",
+    "case_type": "normal",
+    "input": {
+      "query": "Bài hương có cần lùi về phía trong khi đặt trên bàn thờ không?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Có, bát hương được đặt ở vị trí trung tâm, chính giữa bàn thờ và lùi về phía trong.",
+      "source_ids": [
+        "doc_011"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "f6c9287e0137b6321705ab57af841bf3d0095e43514d0a63cf0f1f21440c5e11",
+    "case_type": "normal",
+    "input": {
+      "query": "Mâm cỗ gồm những gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Mâm cỗ bao gồm xôi, chè, món mặn hoặc đồ chay.",
+      "source_ids": [
+        "doc_012"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "a4d3ecaf62aaf6155037b2f5a9a29aa36b3b19b93c84d074bf804c5838dcee65",
+    "case_type": "normal",
+    "input": {
+      "query": "Trầu cau và tiền vàng mã được đặt ở đâu?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Trầu cau, tiền vàng mã được xếp gọn gàng ở hai bên hoặc phía trước mâm cỗ.",
+      "source_ids": [
+        "doc_012"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "1006df86940a7ecbcebad497fd54ec4f4b711d2198a221a60750b46b5c81ec80",
+    "case_type": "normal",
+    "input": {
+      "query": "Nguyên tắc chung khi bày biện là gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Các đĩa, chén đựng lễ vật phải sạch sẽ, riêng biệt, không dùng chung đồ bình thường.",
+      "source_ids": [
+        "doc_012"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "2601a87a938fdd288c0bfb272e6e25c9dac0b6f903b7c89cf3aea670b0782555",
+    "case_type": "normal",
+    "input": {
+      "query": "Lý do để đặt đồ cao lớn ở phía trong là gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Đồ cao lớn như lọ hoa, mâm ngũ quả lớn được đặt ở phía trong để tránh che khuất bát hương.",
+      "source_ids": [
+        "doc_012"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "5831a81cf1cd4f685bd8ed947996464be18dabdd3f190cb0efd8b45346371c1e",
+    "case_type": "normal",
+    "input": {
+      "query": "Một số vật phẩm nào có thể được sử dụng trong nghi lễ này?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Trầu cau, tiền vàng mã, muối gạo (nếu có) là một số vật phẩm có thể được sử dụng.",
+      "source_ids": [
+        "doc_012"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "92bcf88b44e5c9f8b021e7cf969fd7b5eec8d44024ce533b0e007917fe05823e",
+    "case_type": "normal",
+    "input": {
+      "query": "Đồ thấp hơn như chén nước và đĩa trầu cau được đặt ở đâu?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Chén nước, đĩa trầu cau được đặt ở phía ngoài để không che khuất bát hương.",
+      "source_ids": [
+        "doc_012"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "cc63236fad7ba2bb11b7c6c824caff729b26dbf92859e0965c276d72cc8fb665",
+    "case_type": "normal",
+    "input": {
+      "query": "Mâm cỗ có thể bao gồm những món ăn nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Mâm cỗ có thể bao gồm xôi, chè, món mặn hoặc đồ chay.",
+      "source_ids": [
+        "doc_012"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "97f27f98b06fe0b8af228af50c343cf18e4666ea950f98430f6f73ab8759210e",
+    "case_type": "normal",
+    "input": {
+      "query": "Vật phẩm nào thường được đặt ở hai bên hoặc phía trước mâm cỗ?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Trầu cau và tiền vàng mã thường được xếp gọn gàng ở hai bên hoặc phía trước mâm cỗ.",
+      "source_ids": [
+        "doc_012"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "9a5b4441e23d04dab8b45f8aa8f2e00122a8e6d303bca0facd21939e598cd351",
+    "case_type": "normal",
+    "input": {
+      "query": "Đồ vật như lọ hoa, mâm ngũ quả lớn có nên đặt ở đâu?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Các đồ vật cao lớn như lọ hoa, mâm ngũ quả lớn nên được đặt ở phía trong.",
+      "source_ids": [
+        "doc_012"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "a58805a01520c503cc8c7b633e2cc067d2c83d9dea8147dcfb23615ed8e58f3d",
+    "case_type": "normal",
+    "input": {
+      "query": "Đối xứng hai bên bàn thờ có tác dụng như thế nào trong không gian thờ cúng?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Sự cân đối và đối xứng hai bên bàn thờ giúp không gian thờ cúng trở nên trang nghiêm và thanh tịnh.",
+      "source_ids": [
+        "doc_013"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "f0f3d33d7f551acaef4fd2f11c2bcaabb8011a77d750bde8c5380791b42c8a2d",
+    "case_type": "normal",
+    "input": {
+      "query": "Có bao nhiêu bước thực hiện nghi lễ cúng Mùng 1 âm lịch được đề cập trong văn bản?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Có 5 bước thực hiện nghi lễ cúng Mùng 1 âm lịch được đề cập.",
+      "source_ids": [
+        "doc_013"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "31d35716c5121e49ef4cf1a6f653e36c9d118c46636cf7675214903fac6c7cc0",
+    "case_type": "normal",
+    "input": {
+      "query": "Nếu gia chủ không tuân thủ yêu cầu về trang phục khi thực hiện nghi lễ, liệu có ảnh hưởng gì đến quá trình cúng?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Gia chủ nên tắm rửa sạch sẽ và mặc quần áo lịch sự, kín đáo (áo dài hoặc áo có tay, quần dài) để đảm bảo tâm trạng thanh tĩnh, vui vẻ.",
+      "source_ids": [
+        "doc_013"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "fa0986a08930af4d9c238cd479a07ad8bfdbe70f6c2b22c9273fa4c4689bddce",
+    "case_type": "normal",
+    "input": {
+      "query": "Bước nào trong quy trình thực hiện nghi lễ cúng Mùng 1 âm lịch đề cập đến việc bao sái và lau dọn bàn thờ?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Bước 1 của quy trình thực hiện nghi lễ cúng Mùng 1 âm lịch đề cập đến việc bao sái, lau dọn bàn thờ.",
+      "source_ids": [
+        "doc_013"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "f803660bacecde588ea89a088cb80b02c960ea766afee2f8efd4dcfd1044b7f2",
+    "case_type": "normal",
+    "input": {
+      "query": "Ngoài việc làm sạch bàn thờ, gia chủ cần chuẩn bị gì khác trong bước 1?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Gia chủ cần chuẩn bị bản thân bằng cách tắm rửa sạch sẽ, mặc quần áo lịch sự và kín đáo (áo dài hoặc áo có tay, quần dài), đồng thời giữ tâm trạng thanh tĩnh, vui vẻ.",
+      "source_ids": [
+        "doc_013"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "968ee4dc8a431b247bb6b58fec068ffd9a318c9213ecae48d2f218f124bd6b91",
+    "case_type": "normal",
+    "input": {
+      "query": "Nếu gia chủ muốn giữ tâm trạng thanh tĩnh, họ nên làm gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Gia chủ cần tắm rửa sạch sẽ và mặc quần áo lịch sự, kín đáo (áo dài hoặc áo có tay, quần dài) để giữ tâm trạng thanh tĩnh.",
+      "source_ids": [
+        "doc_013"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "9c4e1182aff578d6b1b23634c32715c66fe25a12a07dfad0a2a37937ac6f557a",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong văn bản, những loại trang phục cụ thể nào được đề xuất cho gia chủ khi thực hiện nghi lễ?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Gia chủ nên mặc quần áo lịch sự và kín đáo như áo dài hoặc áo có tay, quần dài.",
+      "source_ids": [
+        "doc_013"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "e958378417bb84341f998eccacb8e94ee1acebe6f0ba4ea9fda400b93e234857",
+    "case_type": "normal",
+    "input": {
+      "query": "Tại sao việc lau dọn bàn thờ được coi là bước đầu tiên trong quy trình cúng Mùng 1 âm lịch?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Lau dọn bàn thờ giúp tạo ra một không gian sạch sẽ và tôn nghiêm, chuẩn bị cho nghi lễ diễn ra thuận lợi.",
+      "source_ids": [
+        "doc_013"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "1bc92fc7a099dc0bfe19f2ead05be478e2a3c2a1dd56f301f51afd655dbd2b80",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong văn bản, có đề cập đến bao nhiêu bước trong quy trình thực hiện nghi lễ cúng Mùng 1 âm lịch?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Văn bản đề cập đến 5 bước trong quy trình thực hiện nghi lễ cúng Mùng 1 âm lịch.",
+      "source_ids": [
+        "doc_013"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "98c35e6e56e652e53513cfa6b28b2ed3a42a65ed84b53b8414d15cae0e46c89e",
+    "case_type": "normal",
+    "input": {
+      "query": "Những vật dụng nào nên được lau sạch trên bàn thờ?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Khăn sạch thấm nước ấm hoặc nước ngũ vị hương/rượu gừng và cốc chén.",
+      "source_ids": [
+        "doc_014"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "aa62b1269afa2a33a1ec5cee8233737445b16c59fc975bff5b1041a9e70f7ed2",
+    "case_type": "normal",
+    "input": {
+      "query": "Nước gì thường được rót vào ly khi bày lễ lên bàn thờ?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Nước sạch (hoặc rượu) được rót vào 3 hoặc 5 ly trên kỷ nước.",
+      "source_ids": [
+        "doc_014"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "9be72d3e9e7969804a5e98d49eae7ee122b179db44b83b5e1d5ff46470f39eaa",
+    "case_type": "normal",
+    "input": {
+      "query": "Theo quy tắc 'Đông Bình - Tây Quả', bình hoa và mâm quả nên đặt ở đâu?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Bình hoa bên phải, Mâm quả bên trái - tính từ trong bàn thờ nhìn ra.",
+      "source_ids": [
+        "doc_014"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "9ad3bf082c8f266ea1f422fae04c827b10ded64d6131c365cfc6767eeca1a928",
+    "case_type": "normal",
+    "input": {
+      "query": "Bàn thờ cần lau gì trước khi bày lễ?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "La đĩa đựng lễ và cốc chén trước.",
+      "source_ids": [
+        "doc_014"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "2bee25bb919238597a10ba48a096555b31bd4a0ab23f2e60bcd2c4aa42a15a6f",
+    "case_type": "normal",
+    "input": {
+      "query": "Sau khi bày lễ, ta thực hiện bước nào tiếp theo trong nghi thức?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Thắp nến & Thắp hương (Khai lễ).",
+      "source_ids": [
+        "doc_014"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "3974391321d2a9222599ea0c80c5445bd4ada875a3a2b39ad3eab9fceccbbd55",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ vật cần được bố trí theo quy tắc gì trên bàn thờ?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Theo quy tắc 'Đông Bình - Tây Quả'.",
+      "source_ids": [
+        "doc_014"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "ac3d56c2479522d89f7f55937abbb0ba18608b3991db6e5198c9c9bc3e27b277",
+    "case_type": "normal",
+    "input": {
+      "query": "Có bao nhiêu ly nước được rót lên khi bày lễ?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "3 hoặc 5 ly.",
+      "source_ids": [
+        "doc_014"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "dd78a4c4fab4ad83cc9188721246b732d2cba824c7260f3bb5940f219beebd1a",
+    "case_type": "normal",
+    "input": {
+      "query": "Việc lau bàn thờ và cốc chén bằng khăn thấm gì được đề xuất?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Nước ấm hoặc nước ngũ vị hương/rượu gừng.",
+      "source_ids": [
+        "doc_014"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "d17cd6cdc2aa704a6b3885d45eac1204860f5152951cdbb14fbc6edeec7355eb",
+    "case_type": "normal",
+    "input": {
+      "query": "Bước cuối cùng trong nghi thức bày lễ trên bàn thờ là gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Thắp nến & Thắp hương (Khai lễ).",
+      "source_ids": [
+        "doc_014"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "9b159ba31d68abf06453d2baf8000628158e867f683473ea99a759edd9f094c6",
+    "case_type": "normal",
+    "input": {
+      "query": "Khi nào nên mở cửa chính hoặc cửa sổ quanh khu vực thờ tự?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Mở nhẹ cửa chính hoặc cửa sổ quanh khu vực thờ tự để không gian thông thoáng, đón khí lành.",
+      "source_ids": [
+        "doc_015"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "2c31be7dae80a2a8cf873e3594d0957fcbc8113acf778aea4ee789850499fcdb",
+    "case_type": "normal",
+    "input": {
+      "query": "Những gì cần thắp trước bàn thờ trong nghi lễ này?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Đốt đèn dầu hoặc thắp nến hai bên bàn thờ trước.",
+      "source_ids": [
+        "doc_015"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "ba1066f0ccbe14b181d18a32cdf7a3046e51ee68fe16f3fa798f3da6dab3dc71",
+    "case_type": "normal",
+    "input": {
+      "query": "Số lượng hương nên thắp như thế nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Thắp theo số lẻ (1 nén đại diện cho tâm thanh tịnh; 3 nén đại diện cho Tam bảo/Tam tài).",
+      "source_ids": [
+        "doc_015"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "769eecaae1983438cba82b9b7ffe2fccf0b52dfe12e291903eaccc2add5f057e",
+    "case_type": "normal",
+    "input": {
+      "query": "Phương pháp thắp hương là gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Châm hương bằng ngọn lửa nến/đèn, thắp theo số lẻ (1 nén đại diện cho tâm thanh tịnh; 3 nén đại diện cho Tam bảo/Tam tài).",
+      "source_ids": [
+        "doc_015"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "cea308221ecf642f74b1e3d05fb09f512482583af104bc19819f970a7e3d7186",
+    "case_type": "normal",
+    "input": {
+      "query": "Lửa nên được tắt như thế nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Dùng tay dập tắt lửa (tránh dùng miệng thổi trực tiếp vào nén hương).",
+      "source_ids": [
+        "doc_015"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "6e43f8931df4fd2af3fbeb40b2c3b2ffe94429acd6c23ebe1779d4e0daa07708",
+    "case_type": "normal",
+    "input": {
+      "query": "Khi cắm hương, người ta cần làm gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Cắm hương bằng hai tay vào chính giữa bát hương, giữ cho nén hương đứng thẳng.",
+      "source_ids": [
+        "doc_015"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "c00751e4dcbb53e515f2a5849df8e374a6c80cb472ff8bfb1cea43d23e10a9b9",
+    "case_type": "normal",
+    "input": {
+      "query": "Bài văn khấn được đọc khi nào trong nghi lễ này?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Đọc văn khấn & Khấn nguyện",
+      "source_ids": [
+        "doc_015"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "be78f6031447eb338d92a53e86e2d5cb5555f7986a49619c94b26b5610b57c61",
+    "case_type": "normal",
+    "input": {
+      "query": "Cần phải thắp nến/đèn ở đâu?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Đốt đèn dầu hoặc thắp nến hai bên bàn thờ trước.",
+      "source_ids": [
+        "doc_015"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "9ae90de629e0ac6e8f8ef19db362e8893205f82ff08a154f36b7690550a80140",
+    "case_type": "normal",
+    "input": {
+      "query": "Tại sao nên thắp theo số lẻ?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Thắp theo số lẻ (1 nén đại diện cho tâm thanh tịnh; 3 nén đại diện cho Tam bảo/Tam tài).",
+      "source_ids": [
+        "doc_015"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "067186d930b56ea959bb8088a0010fccbc04097242a7cbb760c59c48a5c968c4",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong nghi lễ này, người thực hiện cần làm gì trước tiên?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Người thực hiện cần đứng trang nghiêm, hai tay chắp trước ngực ngang tầm mắt.",
+      "source_ids": [
+        "doc_016"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "331f02c7b35fd55425dbb6bdaa16847c402d3f4d5a65099c40b7d94e9dfc41e8",
+    "case_type": "normal",
+    "input": {
+      "query": "Sau khi chuẩn bị xong, bài văn khấn Mùng 1 được đọc như thế nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Bài văn khấn Mùng 1 nên được đọc với giọng điệu vừa đủ nghe, rành mạch và thành kính.",
+      "source_ids": [
+        "doc_016"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "046f898dead1df26d636bcf57aaa7998845c32260c0acce761b967175aacea86",
+    "case_type": "normal",
+    "input": {
+      "query": "Nội dung của bài khấn bao gồm những gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Nội dung bài khấn nêu họ tên, địa chỉ, báo cáo lễ vật và cầu nguyện sự may mắn, bình an, hanh thông cho cả tháng.",
+      "source_ids": [
+        "doc_016"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "4fb68b874d79bcd8dbcaec197a13486af646204352ec0a4778c1374fbcff7dbe",
+    "case_type": "normal",
+    "input": {
+      "query": "Sau khi khấn xong, người thực hiện cần làm gì tiếp theo?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Sau khi khấn xong, người thực hiện vái 3 vái dài rồi lui ra ngoài.",
+      "source_ids": [
+        "doc_016"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "504f448c484911765e7b69309476e114ea9366101ffdc03669a1130b6f0da59c",
+    "case_type": "normal",
+    "input": {
+      "query": "Thời gian đợi sau khi khấn như thế nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Thời gian đợi là đến khi hương cháy hết hoặc cháy được 2/3 nén hương (khoảng 30 - 45 phút).",
+      "source_ids": [
+        "doc_016"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "3edbae9f4218a0f9d2ff9af32707e5fb62c3893bf976e25ad466cd9f5afce43d",
+    "case_type": "normal",
+    "input": {
+      "query": "Ngoài nghi lễ khấn, còn có bước nào khác trong quá trình này?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Sau khi khấn xong, có thêm bước Hạ lễ & Hoá vàng (Tất lễ).",
+      "source_ids": [
+        "doc_016"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "d0634f139daa7cbcb916888ec9ec2f54b0279d3cd413d67e828d149caa0f9e1c",
+    "case_type": "normal",
+    "input": {
+      "query": "Khi nào thì việc Hạ lễ & Hoá vàng được thực hiện?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Việc Hạ lễ & Hoá vàng được thực hiện sau khi hương cháy hết hoặc cháy được 2/3 nén hương (khoảng 30 - 45 phút).",
+      "source_ids": [
+        "doc_016"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "c928e2df3d710c9d897683bc6333a43ed5ead78a406dafa27713abb17a305cd1",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong nghi lễ, người thực hiện có cần thay đổi tư thế đứng không?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Có, họ nên đứng trang nghiêm và hai tay chắp trước ngực ngang tầm mắt.",
+      "source_ids": [
+        "doc_016"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "b4adbff633fdcad3fb7ddf1bf02cc3bf242c2633d68829fe313544667d980953",
+    "case_type": "normal",
+    "input": {
+      "query": "Đọc bài khấn Mùng 1 có mục đích gì trong nghi lễ này?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Đọc bài khấn Mùng 1 với giọng điệu vừa đủ nghe, rành mạch, thành kính để cầu nguyện sự may mắn, bình an, hanh thông cho cả tháng.",
+      "source_ids": [
+        "doc_016"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "c739934a079d12a984a152b66a0978626231fa2a8ff288b520a54e98773c53eb",
+    "case_type": "normal",
+    "input": {
+      "query": "Trước khi hạ lễ, người ta cần làm gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Chắp tay vái 3 vái xin phép Thần linh, Gia tiên cho phép hạ lễ.",
+      "source_ids": [
+        "doc_017"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "a803254af4e94e841f733aed66caae2a9dab652a71ec14439440d8a7684de3d2",
+    "case_type": "normal",
+    "input": {
+      "query": "Việc hóa vàng cần chú ý điều gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Mang tiền vàng mã (nếu có) đi đốt tại nơi hóa vàng riêng biệt. Khi đốt phải hóa hết hoàn toàn thành tro, không dùng nước dập tắt ngang chừng.",
+      "source_ids": [
+        "doc_017"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "e30576d377ae53e4c833bece38a76f33f6f0552f67611e583873f09ed011609b",
+    "case_type": "normal",
+    "input": {
+      "query": "Sau khi cúng xong, đồ lễ được làm gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Chia sẻ hoa quả, đồ lễ cho người thân trong gia đình cùng thưởng thức để lấy may mắn đầu tháng.",
+      "source_ids": [
+        "doc_017"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "3af7a0aaa8c337408f235ad642ef2bf483ef5d558a7602c0778d469abcf5d6df",
+    "case_type": "normal",
+    "input": {
+      "query": "Có cần mang tiền vàng mã đi đốt không?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Mang tiền vàng mã (nếu có) đi đốt tại nơi hóa vàng riêng biệt.",
+      "source_ids": [
+        "doc_017"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "e8d83ac60c41573c9203cf1d7eb7743801d4588fc6237435576efbf36d838937",
+    "case_type": "normal",
+    "input": {
+      "query": "Việc đốt vàng phải làm sao để đảm bảo?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Khi đốt phải hóa hết hoàn toàn thành tro, không dùng nước dập tắt ngang chừng.",
+      "source_ids": [
+        "doc_017"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "4dc5200c76c656a9cf0dfffe4d51a65f7fda7defdfc64008936c901bd017eb41",
+    "case_type": "normal",
+    "input": {
+      "query": "Nơi nào để đốt vàng mã?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Địa điểm hóa vàng riêng biệt.",
+      "source_ids": [
+        "doc_017"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "d0669fe36f0d395c8cb98477bf1f229919ca1a6d3b69a9c9ce2b5c805ad17420",
+    "case_type": "normal",
+    "input": {
+      "query": "Lý do làm sao phải chia sẻ hoa quả, đồ lễ sau khi cúng?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Chia sẻ hoa quả, đồ lễ cho người thân trong gia đình cùng thưởng thức để lấy may mắn đầu tháng.",
+      "source_ids": [
+        "doc_017"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "aafdce4fb161665a602de0b6d8fbc06a3e25a9892f2e191bdee4dce0c0328698",
+    "case_type": "normal",
+    "input": {
+      "query": "Cách xin phép trước khi hạ lễ như thế nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Chắp tay vái 3 vái xin phép Thần linh, Gia tiên cho phép hạ lễ.",
+      "source_ids": [
+        "doc_017"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "a4a5b6b36e0e1f3568988c3b865f52400726600d0574f24282d565852c3a3ed4",
+    "case_type": "normal",
+    "input": {
+      "query": "Nói về việc Nam mô A Di Đà Phật vào bài khấn có ý nghĩa gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Nam mô A Di Đà Phật! (3 lần kèm 3 lạy)",
+      "source_ids": [
+        "doc_017"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "223b629057689f87dc9ee4187705bc7d7451cd9f11ca37360195d0d2405f4650",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong lễ tế này, tín chủ cầu mong điều gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Tín chủ cầu mong được ơn đức trời đất và chư vị Tôn thần chứng giám lòng thành.",
+      "source_ids": [
+        "doc_018"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "a853298670c0671378513008179dfe9772b1a1e0203c5e03633e360ef3a64e8d",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ vật trong bài văn có liệt kê những gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Lễ vật gồm hương, hoa trà quả, nén tâm hương.",
+      "source_ids": [
+        "doc_018"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "c8a31cb7163268b45e276ee6d85d7ed97db75a673a01feafd431140ea35889f4",
+    "case_type": "normal",
+    "input": {
+      "query": "Đối tượng nào được tín chủ kính mời trong lễ tế này?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Tín chủ kính mời Thành hoàng Chư vị Đại Vương, ngài Bản xứ Thần linh Thổ địa, ngài Bản gia Táo quân, Ngũ phương, Long Mạch và Tài thần.",
+      "source_ids": [
+        "doc_018"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "2e91cd62a6eeffe9ab930cecb7399d27b7b57fda5ed97357813d031871f916df",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ vật được dâng lên trước án như thế nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Tín chủ thắp nén tâm hương để dâng lên trước án với lễ vật gồm hương, hoa trà quả.",
+      "source_ids": [
+        "doc_018"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "38f84870c391c6659861e02b14fae5ca9477accf04cca1a62b9ac857ffa4d294",
+    "case_type": "normal",
+    "input": {
+      "query": "Các vị thần nào được tín chủ kính mời giáng lâm trước án?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Tín chủ kính mời Bản cảnh Thành hoàng Chư vị Đại Vương, ngài Bản xứ Thần linh Thổ địa, ngài Bản gia Táo quân, Ngũ phương, Long Mạch và Tài thần.",
+      "source_ids": [
+        "doc_018"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "fafde5d5a76ad98599db3f4e3373f62f8d58c3f2cdfd8329361996d785786773",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ tế này diễn ra vào ngày gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Lễ tế diễn ra vào ngày rằm hoặc mồng một.",
+      "source_ids": [
+        "doc_018"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "8350f4c1a2e562ec4eeb6e38a0408d599e80cca151c212735fc87c4dc1ee295f",
+    "case_type": "normal",
+    "input": {
+      "query": "Các vị thần được kính mời có công dụng gì trong lễ tế?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Các vị thần được kính mời chứng giám lòng thành và thụ hưởng lễ vật.",
+      "source_ids": [
+        "doc_018"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "9ad406904e008a8914208bc18d833c1b66e46ed5d60bc9231d7f6ba4f4fc5dac",
+    "case_type": "normal",
+    "input": {
+      "query": "Tín chủ cầu mong điều gì khi sắm lễ?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Tín chủ cầu mong được ơn đức trời đất, chư vị Tôn thần, cù lao Tiên Tổ chứng giám lòng thành.",
+      "source_ids": [
+        "doc_018"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "52ffc688f00a669c76178172a7d8b7d91785e343e01425039549849de38a3bf4",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ tế diễn ra trong bối cảnh nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Lễ tế diễn ra vào ngày rằm hoặc mồng một, khi tín chủ thành tâm sắm lễ, hương, hoa trà quả để cầu mong được ơn đức trời đất và chư vị Tôn thần chứng giám lòng thành.",
+      "source_ids": [
+        "doc_018"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "edd3314e7e0e8a03bf8d97833e56d547101914efb64923024bb7976adf927552",
+    "case_type": "normal",
+    "input": {
+      "query": "Tín chủ đang mời ai đến dự lễ?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Chúng con kính mời các cụ Tổ Khảo, Tổ Tỷ, chư vị Hương linh gia tiên nội ngoại họ.",
+      "source_ids": [
+        "doc_019"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "30f4074d1c3ee0cf1e090c7128e8d114024b13229fe672ce4d314436da422e7c",
+    "case_type": "normal",
+    "input": {
+      "query": "Lễ vật được cử ra để làm gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Kính mời các cụ Tổ Khảo, Tổ TỶ, chư vị Hương linh gia tiên nội ngoại họ hiện về, chứng giám tâm thành, thụ hưởng lễ vật.",
+      "source_ids": [
+        "doc_019"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "563087b63cca6e9639acce53da5f1d4f0a5f432a90706c28255e78e208bfad5f",
+    "case_type": "normal",
+    "input": {
+      "query": "Ai là những người được kính mời thứ hai trong văn bản này?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Tín chủ con lại kính mời các vị Tiền chủ, Hậu chủ ngụ tại nhà này.",
+      "source_ids": [
+        "doc_019"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "ba8b7a7c419f72828259b2a2eb8061b505938b81e332319917263667fc8f6703",
+    "case_type": "normal",
+    "input": {
+      "query": "Các vị Tiền chủ và Hậu chủ ở đâu?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Các vị Tiền chủ và Hậu chủ ngụ tại nhà này.",
+      "source_ids": [
+        "doc_019"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "f880e9a8b643f1729587d3af9061550e26e4ce1929f5129dde5c911cfa7c884f",
+    "case_type": "normal",
+    "input": {
+      "query": "Đối tượng nào được mong muốn phù hộ cho gia chúng con?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Phù hộ cho gia chúng con luôn luôn mạnh khỏe, mọi sự bình an, vạn sự tốt lành, làm ăn phát tài, gia đình hòa thuận.",
+      "source_ids": [
+        "doc_019"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "e185914bd1cee64be41c97634712d37ba73f5117898510b98cf25272f1582f30",
+    "case_type": "normal",
+    "input": {
+      "query": "Công việc của tín chủ trong lễ này là gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Chúng con lễ bạc tâm thành, trước án kính lễ.",
+      "source_ids": [
+        "doc_019"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "444fa924a866ad971454e9902184e261f6a9a7d86e25243e72d5383f8fcc23af",
+    "case_type": "normal",
+    "input": {
+      "query": "Tín chủ mong muốn điều gì từ các vị Tiền chủ và Hậu chủ?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Đồng lâm án tiền, đồng lai hâm hưởng, phù hộ cho gia chúng con luôn luôn mạnh khỏe, mọi sự bình an, vạn sự tốt lành, làm ăn phát tài, gia đình hòa thuận.",
+      "source_ids": [
+        "doc_019"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "017026e5a404db71667c993a70276c5e6c96c5db5769aea99ec14207e952023c",
+    "case_type": "normal",
+    "input": {
+      "query": "Sự mục đích của tín chủ khi thực hiện lễ này?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Cúi xin được phù hộ độ trì.",
+      "source_ids": [
+        "doc_019"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "ec8c55f36ea5ed719c099f6ba2d2c5907bde241a41747aa8ccefd408eaf780d1",
+    "case_type": "normal",
+    "input": {
+      "query": "Những ai được kính mời trong buổi lễ này?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Kính mời các cụ Tổ Khảo, Tổ Tỷ, chư vị Hương linh gia tiên nội ngoại họ và các vị Tiền chủ, Hậu chủ ngụ tại nhà này.",
+      "source_ids": [
+        "doc_019"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "91babc630a31e04d4bd656a207f7e6002b7557e546db5d69ee315dbbc8b55af3",
+    "case_type": "normal",
+    "input": {
+      "query": "Nam mô A Di Đà Phật được lặp lại bao nhiêu lần trong văn bản gốc?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "3 lần",
+      "source_ids": [
+        "doc_020"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "045ef361b7747440c4e1f8bd0c4987740f978a5243ad4986c1b0d8d5e604fd65",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong câu Nam mô A Di Đà Phật, từ 'Nam mô' có ý nghĩa gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Từ 'Nam mô' là một từ hành lễ trong Phật giáo, thường được sử dụng như một lời cầu nguyện hoặc salutation.",
+      "source_ids": [
+        "doc_020"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "da035625e09eb83d122fc45ff14ef1c18e846bcffa9e1fd7a4844d0e5c340bea",
+    "case_type": "normal",
+    "input": {
+      "query": "Văn bản gốc đề cập đến bao nhiêu lạy?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "3 lạy",
+      "source_ids": [
+        "doc_020"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "ba4500c0575255dc4655cf37d9010e440068429b399e5d6d29148113007a6416",
+    "case_type": "normal",
+    "input": {
+      "query": "Phật giáo có bao nhiêu chúa Phật chính?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Trong văn bản, chỉ đề cập đến A Di Đà, nhưng theo Phật giáo, có nhiều vị Bồ Tát và Chư Phật.",
+      "source_ids": [
+        "doc_020"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "454acb4fbf8da894a967c9d4e564a2e77650a4bed156813d234ec40c261a350e",
+    "case_type": "normal",
+    "input": {
+      "query": "Từ 'A Di Đà' trong Nam mô A Di Đà Phật có ý nghĩa gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "'A Di Đà' là tên của một chúa Phật trong Phật giáo Tây Tạng, được biết đến với cảnh giới cực lạc.",
+      "source_ids": [
+        "doc_020"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "9ba931fe7b8443f0cd1b0c19d646852adb2b638dce007c6a351dad8561182dbf",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong văn bản, từ 'Phật' có ý nghĩa như thế nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Trong văn bản, từ 'Phật' đề cập đến Đức Phật A Di Đà, một vị Bồ Tát trong truyền thống Phật giáo.",
+      "source_ids": [
+        "doc_020"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "373a79cd875dbe60756eb35e5b4c9d069e6b18ece304d36dd7b7a76cf1bbf89b",
+    "case_type": "normal",
+    "input": {
+      "query": "Văn bản này được sử dụng trong ngữ cảnh nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Không có thông tin cụ thể về ngữ cảnh, nhưng thường được sử dụng khi cầu nguyện hoặc tụng kinh trong phong trào Phật giáo.",
+      "source_ids": [
+        "doc_020"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "e5d4cb743fa2ab810a0ea7cf42aead01264b43a998d0227fba05e63b087cc154",
+    "case_type": "normal",
+    "input": {
+      "query": "Có bao nhiêu hành động lặp lại trong văn bản?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "2: Lặp lại 'Nam mô A Di Đà Phật' và lạy 3 lần",
+      "source_ids": [
+        "doc_020"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "544f2737fe5cb401e07a2988e2bdc9c0167c52b1691c474f353fbd73fc5d3e27",
+    "case_type": "normal",
+    "input": {
+      "query": "Trong phật giáo, 'Nam mô A Di Đà Phật' được sử dụng như thế nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "'Nam mô A Di Đà Phật' thường được tụng niệm để cầu nguyện về hướng đến cực lạc trong cảnh giới của Đức Phật A Di Đà.",
+      "source_ids": [
+        "doc_020"
+      ]
+    }
+  },
+  {
+    "module": "router",
+    "id": "router_v2_001",
+    "case_type": "normal",
+    "input": {
+      "query": "Cách bày mâm cúng ông Công ông Táo như thế nào?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "route": "knowledge_qa"
+    }
+  },
+  {
+    "module": "router",
+    "id": "router_v2_002",
+    "case_type": "normal",
+    "input": {
+      "query": "Bộ tam sên giá bao nhiêu?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "route": "product_search"
+    }
+  },
+  {
+    "module": "router",
+    "id": "router_v2_003",
+    "case_type": "normal",
+    "input": {
+      "query": "Tính giúp tôi tổng tiền 1 mâm cúng rằm gồm 5 món, mỗi món 50.000đ",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "route": "multi_step"
+    }
+  },
+  {
+    "module": "router",
+    "id": "router_v2_004",
+    "case_type": "edge",
+    "input": {
+      "query": "Cho tôi mâm cúng",
+      "session_id": "s2",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "route": "ambiguous"
+    }
+  },
+  {
+    "module": "router",
+    "id": "router_v2_005",
+    "case_type": "edge",
+    "input": {
+      "query": "Hôm nay ăn gì nhỉ",
+      "session_id": "s2",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "route": "ood"
+    }
+  },
+  {
+    "module": "calculation",
+    "id": "calc_v2_001",
+    "case_type": "normal",
+    "input": {
+      "expression": "125 + 37"
+    },
+    "ground_truth": {
+      "result": 162
+    }
+  },
+  {
+    "module": "calculation",
+    "id": "calc_v2_002",
+    "case_type": "normal",
+    "input": {
+      "expression": "(100 - 20) / (5 + 3)"
+    },
+    "ground_truth": {
+      "result": 10
+    }
+  },
+  {
+    "module": "calculation",
+    "id": "calc_v2_003",
+    "case_type": "adversarial",
+    "input": {
+      "expression": "100 / 0"
+    },
+    "ground_truth": {
+      "result": null
+    }
+  },
+  {
+    "module": "tool_use",
+    "id": "tooluse_001",
+    "case_type": "normal",
+    "input": {
+      "query": "Cách bày mâm cúng ông Công ông Táo như thế nào?"
+    },
+    "ground_truth": {
+      "tool_calls": [
+        {
+          "tool_name": "knowledge_retriever",
+          "arguments": {
+            "query": "Cách bày mâm cúng ông Công ông Táo như thế nào?"
+          }
+        },
+        {
+          "tool_name": "knowledge_reranker",
+          "arguments": {}
+        }
+      ]
+    }
+  },
+  {
+    "module": "tool_use",
+    "id": "tooluse_002",
+    "case_type": "normal",
+    "input": {
+      "query": "Mùng 1 âm lịch có tên gọi là gì?"
+    },
+    "ground_truth": {
+      "tool_calls": [
+        {
+          "tool_name": "knowledge_retriever",
+          "arguments": {
+            "query": "Mùng 1 âm lịch có tên gọi là gì?"
+          }
+        },
+        {
+          "tool_name": "knowledge_reranker",
+          "arguments": {}
+        }
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "rag_edge_001",
+    "case_type": "edge",
+    "input": {
+      "query": "Người miền Nam kiêng cúng loại trái cây nào và vì sao?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Người miền Nam kiêng cúng chuối, cam và lê. Mâm ngũ quả miền Nam theo nguyên tắc \"Cầu - Vừa - Đủ - Xài\" gồm mãng cầu, dừa, đu đủ, xoài, sung.",
+      "source_ids": [
+        "doc_009"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "rag_edge_002",
+    "case_type": "edge",
+    "input": {
+      "query": "Vì sao trước khi thắp hương cần mở cửa nhà?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Mở cửa chính hoặc cửa sổ quanh khu vực thờ tự để không gian thông thoáng, đón khí lành trước khi thắp hương.",
+      "source_ids": [
+        "doc_015"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "rag_edge_003",
+    "case_type": "edge",
+    "input": {
+      "query": "Sau khi thắp hương xong, gia chủ cần đọc gì?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Sau khi thắp hương, gia chủ đứng trang nghiêm, chắp tay và đọc bài văn khấn Mùng 1 với giọng điệu vừa đủ nghe, rành mạch, thành kính.",
+      "source_ids": [
+        "doc_016"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "rag_edge_004",
+    "case_type": "edge",
+    "input": {
+      "query": "Miền Bắc ưu tiên cúng lễ chay hay lễ mặn vào Mùng 1?",
+      "session_id": "s1",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Miền Bắc ưu tiên cúng lễ chay nhẹ nhàng (xôi gấc, hoa tươi, quả ngọt) để giữ sự thanh tịnh đầu tháng.",
+      "source_ids": [
+        "doc_003"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "rag_adv_001",
+    "case_type": "adversarial",
+    "input": {
+      "query": "Cách chuẩn bị mâm cúng Tết Đoan Ngọ (mùng 5 tháng 5) gồm những gì?",
+      "session_id": "s2",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Không có thông tin",
+      "source_ids": []
+    }
+  },
+  {
+    "module": "rag",
+    "id": "rag_adv_002",
+    "case_type": "adversarial",
+    "input": {
+      "query": "Vì sao mâm ngũ quả miền Bắc cũng phải kiêng chuối giống miền Nam?",
+      "session_id": "s2",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Câu hỏi có tiền đề sai - miền Bắc không kiêng chuối, ngược lại còn dùng chuối xanh làm lễ vật chính trong mâm ngũ quả (ngửa tay đỡ lộc). Chỉ có miền Nam mới kiêng chuối, cam, lê.",
+      "source_ids": [
+        "doc_008",
+        "doc_009"
+      ]
+    }
+  },
+  {
+    "module": "rag",
+    "id": "rag_adv_003",
+    "case_type": "adversarial",
+    "input": {
+      "query": "Công thức tính lãi suất kép của ngân hàng là gì?",
+      "session_id": "s2",
+      "user_id": null,
+      "metadata": {}
+    },
+    "ground_truth": {
+      "answer": "Không có thông tin",
+      "source_ids": []
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "retriever_edge_001",
+    "case_type": "edge",
+    "input": {
+      "query": "Người miền Nam kiêng cúng loại trái cây nào và vì sao?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_009"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "retriever_edge_002",
+    "case_type": "edge",
+    "input": {
+      "query": "Vì sao trước khi thắp hương cần mở cửa nhà?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_015"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "retriever_edge_003",
+    "case_type": "edge",
+    "input": {
+      "query": "Sau khi thắp hương xong, gia chủ cần đọc gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": [
+        "doc_016"
+      ]
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "retriever_adv_001",
+    "case_type": "adversarial",
+    "input": {
+      "query": "Cách chuẩn bị mâm cúng Tết Đoan Ngọ (mùng 5 tháng 5) gồm những gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": []
+    }
+  },
+  {
+    "module": "retriever",
+    "id": "retriever_adv_002",
+    "case_type": "adversarial",
+    "input": {
+      "query": "Công thức tính lãi suất kép của ngân hàng là gì?",
+      "top_k": 5
+    },
+    "ground_truth": {
+      "relevant_doc_ids": []
+    }
+  }
+]

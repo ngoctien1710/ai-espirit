@@ -87,17 +87,20 @@ class FaissVectorStore(BaseVectorStore):
             if idx == -1: continue
             
             doc_dict = self.doc_store[int(idx)]
-            meta = doc_dict["metadata"]
+            # Sao chép metadata để tránh can thiệp vào kho dữ liệu gốc
+            meta = doc_dict["metadata"].copy()
             
             if filters:
                 match = all(meta.get(k) == v for k, v in filters.items())
                 if not match: continue
                 
+            # Đẩy các tham số kỹ thuật vào thẳng metadata
+            meta["retrieval_distance"] = float(distances[0][i])
+            meta["retrieval_score_metric"] = "L2_distance"
+                
             results.append({
                 "id": meta.get("chunk_id", str(idx)),
                 "content": doc_dict["content"],
-                "distance": float(distances[0][i]),
-                "score_metric": "L2_distance",
                 "metadata": meta
             })
             

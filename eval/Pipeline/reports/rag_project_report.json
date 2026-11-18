@@ -1,0 +1,2884 @@
+{
+  "module": "rag",
+  "num_cases": 189,
+  "num_success": 189,
+  "num_errors": 0,
+  "aggregate": {
+    "exact_match": 0.0,
+    "token_f1": 0.0,
+    "rouge_l": 0.0,
+    "bleu1": 0.0,
+    "bleu2": 0.0,
+    "bleu3": 0.0,
+    "bleu4": 0.0,
+    "source_recall": 0.0
+  },
+  "breakdown_by_case_type": {
+    "edge": {
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "rouge_l": 0.0,
+      "bleu1": 0.0,
+      "bleu2": 0.0,
+      "bleu3": 0.0,
+      "bleu4": 0.0,
+      "source_recall": 0.0
+    },
+    "adversarial": {
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "rouge_l": 0.0,
+      "bleu1": 0.0,
+      "bleu2": 0.0,
+      "bleu3": 0.0,
+      "bleu4": 0.0,
+      "source_recall": 0.0
+    },
+    "normal": {
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "rouge_l": 0.0,
+      "bleu1": 0.0,
+      "bleu2": 0.0,
+      "bleu3": 0.0,
+      "bleu4": 0.0,
+      "source_recall": 0.0
+    }
+  },
+  "errors": [],
+  "per_case": [
+    {
+      "id": "d55bbab59cdd93ee833f82d41b03669486dfc8f592e931dd572dcdcd0edbbb59",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.013483762741088867
+    },
+    {
+      "id": "86c1ef7117b244512d79fac15000508c792b354c586452c4b8b7af65a6819770",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.002937793731689453
+    },
+    {
+      "id": "354350bd3418e59612e89a3ac74f8595f67ec2825b46bfa7ba1e7db1baae7ba7",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0026497840881347656
+    },
+    {
+      "id": "e63979be0e7fa83b84a09b63ef15379c979eadf2db684ee8bcb64fbf70923f3d",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.002741575241088867
+    },
+    {
+      "id": "89bab97aa0f4fd5efd60cae830559a87eea70abf90c46a02c14051507400d1da",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0026428699493408203
+    },
+    {
+      "id": "54c7abbf5486c6da206772673955172e85cc196727303e9854fe7ca54da05186",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.00266265869140625
+    },
+    {
+      "id": "60a1a9468a8e40ec573ca4623b3e9a7453243df58631fc5412b94b0f59208c8c",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.002635955810546875
+    },
+    {
+      "id": "4b836146053a02788d92752410d33a2dcfe026d1080977eb48a959fa15d3337f",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0027005672454833984
+    },
+    {
+      "id": "e4002ee34e6d45a045880eb157c14d6154ed9c018e2cf86fde0ae5c987d68c9b",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0027048587799072266
+    },
+    {
+      "id": "26e851caf7af80ecd6aef05b0949b1cc5f114b2e99fcd768be06e46548b7a38d",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0025534629821777344
+    },
+    {
+      "id": "19907536fcfb4cbf3618797f67e0cdfedb8151142e0d6e5c63fa21600fd0213a",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.002582073211669922
+    },
+    {
+      "id": "9a8528be717b39a8a4f4192a42a4777a266662b0c94ab009c62f10f99d7e56a0",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0025238990783691406
+    },
+    {
+      "id": "9f5ea80dd66682be8d15cd4719c8f0e29ac2c08609bb48278c06c91601ecdb7c",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0026340484619140625
+    },
+    {
+      "id": "bb2e007f6c6f0f93e3aae0ba78dda9bfa222b55ef2384415a4f27e7cad48d290",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0025839805603027344
+    },
+    {
+      "id": "adda947a3297e831b6ad94fd2d4069cbb9e24101079a8879737a66464dc41f2b",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0025687217712402344
+    },
+    {
+      "id": "fbf040101b791b2742ff7fdbe407b225455740f22e179fa8a04eddb229a8423a",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.002574920654296875
+    },
+    {
+      "id": "744067e3ebc986880de710af7589012d83f19456c1d27a0b531805ed7059cb27",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0025377273559570312
+    },
+    {
+      "id": "dc87f6a96d10939017c8726459ea6afbe82d5837af7b09c0b7a3cde2c9059bf0",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0027222633361816406
+    },
+    {
+      "id": "09d6f8855505ecbd2e01467e9ad2256512cba757b6aa83355cdbd8f434c4652f",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.002652406692504883
+    },
+    {
+      "id": "d92fdcf86314d82efd7b81515d2aea0c0efc5bb6441592086a611b27b327738e",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0026891231536865234
+    },
+    {
+      "id": "bafc6125ed3ef3ff84b6d86fc136d3179b5adffd2551b8aa1226feedc044f7b5",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.002683401107788086
+    },
+    {
+      "id": "5f1ff1f0f0c38fbfbd07b5ab94818ac17b7a771e16677d1fd1a3ba409458c724",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0026373863220214844
+    },
+    {
+      "id": "3debf7978599f7574d09831c6ea1bdd7f7f181214259b91cc460d05336bc76dc",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.002653360366821289
+    },
+    {
+      "id": "87f0f7498050a1fda4190e38731ce5ab38c8ee7e49bf7eed3d6fa6e2558ad646",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.00260162353515625
+    },
+    {
+      "id": "3568c7257a592bdf191e286e10e4e3d8ec23dc02b7e5679d1d8ca8eecec6a28d",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011586427688598633
+    },
+    {
+      "id": "6e3ecc2a9fa1bd399c3535e7da278431b16418fbec08be08ef6e7e1b927b50c3",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011606454849243164
+    },
+    {
+      "id": "b84aa855f788ed6ce59a49a8fc4a92ffdc03caf58b4264fd859f72bc53442804",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.012075185775756836
+    },
+    {
+      "id": "e3ea946719ef0d046d25c08d074638463087bca158ecd0570e595efd7df6ce88",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011794328689575195
+    },
+    {
+      "id": "731b3d90f993fdf25fd9b14d56c4d10e82d08f2d1a6bbf69f70fe78c1039b7cc",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011751890182495117
+    },
+    {
+      "id": "9bb1de22a5a0d65c98e4849c56c6db116d1c62d7e524ad5fc2f48841ae4d7bc7",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.01171731948852539
+    },
+    {
+      "id": "536b1c32b939895c5c9f3f9fd4973b79860c7d5193d92f6c3fad79652b64fc7c",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011760234832763672
+    },
+    {
+      "id": "2f33b6a3f8fe372c80c70c4c2376d06f797cc3ba76923f804eb988ad798a458b",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011577367782592773
+    },
+    {
+      "id": "f3349e0c391b92de6403776f5c0acb34c1fe5d345d2a0cb7fdc9d01200e7e01c",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.01173090934753418
+    },
+    {
+      "id": "19f81709dc9e6799fc173020359ba9144e75e36894d7e52b5a64ead30e7aa83d",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011566162109375
+    },
+    {
+      "id": "56dd843638fcfa483715f9885c4aef3e5e5204db90f06991fcab4a0ec135682f",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.012628555297851562
+    },
+    {
+      "id": "1d07b917ce638df9d627d3e41c88a24721254d2c44c50131c5ce2212c273a77b",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.013276338577270508
+    },
+    {
+      "id": "a86d05853e0de94be28586e1f15e01280414660a742cce7ea8cae3f4c2014850",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011677742004394531
+    },
+    {
+      "id": "ee406b0a6c89ff07b05230b98f020fb216486e3e4f9fa77756322c61622e0473",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011602401733398438
+    },
+    {
+      "id": "765fa8b505d154c4b6694695048b25d0a2b1b06d8bfcb1e02b222f1a6963b671",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.01172637939453125
+    },
+    {
+      "id": "38210b1213d4aa62ad10306bbb89e9a81906bd5fcd7206e61b308abb8165eee6",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.012314081192016602
+    },
+    {
+      "id": "d434c47d260ec9b60f4aa7baf03b3c72a8ab1741887d964819b8d70895641fa0",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.013742923736572266
+    },
+    {
+      "id": "a7a0c5d950c49ea25699ad5b07a4ccfd5ac08789af11a2f8647228306214a6f5",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011628150939941406
+    },
+    {
+      "id": "99b7ad3b822a4b8562b6ceaa86c0cd7f1980075fffc3b0ec2d9907b4f257d7be",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011507749557495117
+    },
+    {
+      "id": "b00330edc907deec095a1fa3cc327f74813bf1b6e13082c49f3bbaed449d2ca6",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011937618255615234
+    },
+    {
+      "id": "39f69ca70aac0aeec0e268e7d6520442903f555c020ce7e5f294dc9d214603c7",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011679649353027344
+    },
+    {
+      "id": "c8e3316bbf7b344fe877132b2b210a8e11df08ea08e4aefbcad1945ddfcffaf2",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0048313140869140625
+    },
+    {
+      "id": "916c6be2690ebb8a4f7267e9e560b87ffcd4870f11beb5654d1db1c3d44ec943",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.004411458969116211
+    },
+    {
+      "id": "82ecc3e7ae98b4ed603a8a4be872289acfa402e31ae5bcd6c6b16ac4d907c2c9",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003932476043701172
+    },
+    {
+      "id": "c53727001984e5a6f8850712ab3c880dfba1c75da69e1659de92da7c6d0fcb97",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0035881996154785156
+    },
+    {
+      "id": "4e853fa82fe0fce42cf48535d7866b3b7e2dc0b64af200539d86fb6e82ac97ca",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0037293434143066406
+    },
+    {
+      "id": "c2d79bd1a6b01a92b0b0a3b3933d170a900a3174bff640a4b9af6a45778cac81",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003464221954345703
+    },
+    {
+      "id": "eb674766c7e7eaf52fa082a1a3b787360df5b2dc404a6d9ca9ab7ce197d66e4e",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0037016868591308594
+    },
+    {
+      "id": "907f86ca850973db4a2a9f90f7405a22b30423bc6d50a91338c8865ca7435035",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0033583641052246094
+    },
+    {
+      "id": "5436583ddea2f82e0da7352077e3fb6e883e4ff8d28867ccb713f0ce01283864",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0035288333892822266
+    },
+    {
+      "id": "66050dbe22ba61e2ac85319862203eecbd2a9c69aeaf8eacda448c3849660be4",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.00360870361328125
+    },
+    {
+      "id": "7ba9cc63468bc1a080a5ec6da72d1c5f8832ed467b6157c5fd99a4fbeb7b5fbe",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003598928451538086
+    },
+    {
+      "id": "b2eff61a47a93684ed4514b7110f41994c5d3b88b2b295fd73bb3683ae6f1183",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0034418106079101562
+    },
+    {
+      "id": "b235982d76135aa548f57e341a724ccd5aad97eccc51d1eb6efb4e868d23d155",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.004645347595214844
+    },
+    {
+      "id": "26cb457cbfb2151e43ce2c770750c18f9930b278bcee205ea1149a3d64ad278b",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0035283565521240234
+    },
+    {
+      "id": "1a4262550e1a7e94f6b15fffc2fa61e8fa0aca7170662882ad5268dabecc13b7",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0036077499389648438
+    },
+    {
+      "id": "a17936f174707ef6af0b4eaa1d17c21da105eadef12a7c6475da5a5b889abfda",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0033130645751953125
+    },
+    {
+      "id": "a627750c63c19e457133b033d038f91479eb7a0c8b86c307df80c3fc39e6d44f",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.00402522087097168
+    },
+    {
+      "id": "706a464575363fa8c8fd583c8b5ef23b0f131a922846745e2f221f95df29b65a",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0035233497619628906
+    },
+    {
+      "id": "1943b186ff753dbb631b2c2eee1616586433a088cfd38b161bc9e2154261bc4c",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003496885299682617
+    },
+    {
+      "id": "95aa2a3a6a747a4989cb85acb2002e979e2b25c6c58b9593172dc58e2ab48e0a",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003475666046142578
+    },
+    {
+      "id": "440e649d4a02ca335e293fab796ee6e6d426f7fcaf05ce4e467f9abf9b3ec491",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0032858848571777344
+    },
+    {
+      "id": "888a0d27eda2738e604bd0b4a46d795fa8b8ff82b79e6ce5616af4469ff704ef",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003609180450439453
+    },
+    {
+      "id": "e7d2b54638441330b9e0a00630d87cbb298e1f66ce3a990ec379ceb983b74eea",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003288745880126953
+    },
+    {
+      "id": "df3817ee980fd0d23c2e5fbbf338a6b1ccc01c4e7d0fe8a970be20fc41a4d382",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0034372806549072266
+    },
+    {
+      "id": "09d71b789cdcfa387e838cf4746972753fdc6e16edf56f6446210eb7d5362cc4",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0033185482025146484
+    },
+    {
+      "id": "c1a253da10c668599d903d504efaac8a5c4c36509bd8b538f1b00be81462e16d",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003706216812133789
+    },
+    {
+      "id": "4f55cfbc08366abdebe37c1ef9a5b1ec5308da539d3dbd0533b4aa05d26b108e",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0034847259521484375
+    },
+    {
+      "id": "f6b2c44f94a53120c1f33feedc16a3dbaf520ef35bced5d5918a991e72d9d1b3",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0034821033477783203
+    },
+    {
+      "id": "a26a80d07910fb5459358245123281610754696a3c9ab3dcc96ad3fb857a11a2",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003539562225341797
+    },
+    {
+      "id": "08ff07073679cc5dc0a518122237de2a3e8b3959d3ca63672ae3eb3eac63512d",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003406524658203125
+    },
+    {
+      "id": "3fa1c34271fcb3e1a22602675f9f9f9992e6b1aed3c9e1c23bc44db32bc6278e",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0035130977630615234
+    },
+    {
+      "id": "49eaed08378e74b5c01966cf73ce482925bbb29b8409885c008a19550cdcb0a6",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003467559814453125
+    },
+    {
+      "id": "7166300ec8a19fcaf3392cfa8ab353978a1a2c1e4b76e48fc58e6777e398c54c",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003381490707397461
+    },
+    {
+      "id": "f9fbac8c6e5e28599b0195c0b9c36b138df5b266e43d8be0373ebe4f5a4207f8",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.002907276153564453
+    },
+    {
+      "id": "38d92a3d41f4da07b4c7d41d29003b8f7050d3abd6f9d264ee84782944b25dbd",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.004395246505737305
+    },
+    {
+      "id": "dc8f48633e4f66415dd00809bf6f62397d3d3739051832f69d562b0f4c07a165",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003032207489013672
+    },
+    {
+      "id": "79c914ed586184b67de7219e81a1b5ac0a138eff1c338159187de7d76b7310e2",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0033483505249023438
+    },
+    {
+      "id": "566cde00cfdd555e2e821aed1c0bd322f7f0e19dbf8cde88ef036387a2f8a07c",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003473997116088867
+    },
+    {
+      "id": "2f928c303b0bdcd2599cc3acd0a7171e24a29f881247b4b6e1d2a93f890a1b06",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003398418426513672
+    },
+    {
+      "id": "5cd47c2e8108ad0b420158f17797e92c2b3b907ff680199da73f99f93558a92f",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003866434097290039
+    },
+    {
+      "id": "d299292af27db78e0ff2d5617e5900f1d6ddb30749e2db1ed0f7173ad136e5f0",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0033369064331054688
+    },
+    {
+      "id": "a29f1df7413710df6688eb42aeda98d14e950f635549484e481864581a414648",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0033235549926757812
+    },
+    {
+      "id": "60c199503e1dd28b00c7f20710405a3ebf4ec7e75c930eb1cae7f87157cde5b6",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003367900848388672
+    },
+    {
+      "id": "38cbdc7483a6be58c481caef8e153ba087c7e3bb469c43d18314f88ffe9757e0",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0042879581451416016
+    },
+    {
+      "id": "59fe663027a8ea6f260dc3e23ef7d072ca8a0224ed98010c3c968de2f989dd3a",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0033025741577148438
+    },
+    {
+      "id": "9fcde5d3d45d3b52656e99368b9f0e67a9f2e1f48d96de9c77f943ce72ffd425",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0038471221923828125
+    },
+    {
+      "id": "f52d9f109354651f64273eca49019e76d492f1bf712a6999f6db1f7de72b4745",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0034515857696533203
+    },
+    {
+      "id": "49830e6d13cd87179be352ac36dd60e5b0d77fa2af3f34c02a312656d70c7e91",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.004403352737426758
+    },
+    {
+      "id": "7477c19fe9996bad8d606d8ab5bf27744d197c81bc1998c42734df34fe7a2070",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0033195018768310547
+    },
+    {
+      "id": "44c1c18d47402c1a7a0763533460e947a8782998123324cabc3fd96c86418d2f",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0034532546997070312
+    },
+    {
+      "id": "f4e017e78afa59b0e2154ceef48288bbba69e3585a6ba89cbf403d43dfa6a235",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0041615962982177734
+    },
+    {
+      "id": "77c59367ce0ebec3b6b23fe0bc2630ef33ba4b2e16b11c74e082b9e79bef5e74",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.006809711456298828
+    },
+    {
+      "id": "c15d26694052838473582bf9e6d0a66d122535c91dd4c79b6827a7bc5d482abd",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.004917621612548828
+    },
+    {
+      "id": "48cd1cc85eeef828e674c32dbebd1de56dfdcd51c5929ee4f101fd7f2ee33392",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003707408905029297
+    },
+    {
+      "id": "a883b6d80773d9442d8e20044244bc86763f68a2830796a676bb9a9ef38608fa",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.013220071792602539
+    },
+    {
+      "id": "e6e4da7f448c12b8b16cd1809dd7eeb1ef938ba7c519a7ebfed9a8c34ee36b74",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.01187276840209961
+    },
+    {
+      "id": "f6c9287e0137b6321705ab57af841bf3d0095e43514d0a63cf0f1f21440c5e11",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011490821838378906
+    },
+    {
+      "id": "a4d3ecaf62aaf6155037b2f5a9a29aa36b3b19b93c84d074bf804c5838dcee65",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011934041976928711
+    },
+    {
+      "id": "1006df86940a7ecbcebad497fd54ec4f4b711d2198a221a60750b46b5c81ec80",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011392354965209961
+    },
+    {
+      "id": "2601a87a938fdd288c0bfb272e6e25c9dac0b6f903b7c89cf3aea670b0782555",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.01153874397277832
+    },
+    {
+      "id": "5831a81cf1cd4f685bd8ed947996464be18dabdd3f190cb0efd8b45346371c1e",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.01183772087097168
+    },
+    {
+      "id": "92bcf88b44e5c9f8b021e7cf969fd7b5eec8d44024ce533b0e007917fe05823e",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.01172018051147461
+    },
+    {
+      "id": "cc63236fad7ba2bb11b7c6c824caff729b26dbf92859e0965c276d72cc8fb665",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.008354663848876953
+    },
+    {
+      "id": "97f27f98b06fe0b8af228af50c343cf18e4666ea950f98430f6f73ab8759210e",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0047872066497802734
+    },
+    {
+      "id": "9a5b4441e23d04dab8b45f8aa8f2e00122a8e6d303bca0facd21939e598cd351",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0027740001678466797
+    },
+    {
+      "id": "a58805a01520c503cc8c7b633e2cc067d2c83d9dea8147dcfb23615ed8e58f3d",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.010025501251220703
+    },
+    {
+      "id": "f0f3d33d7f551acaef4fd2f11c2bcaabb8011a77d750bde8c5380791b42c8a2d",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0027556419372558594
+    },
+    {
+      "id": "31d35716c5121e49ef4cf1a6f653e36c9d118c46636cf7675214903fac6c7cc0",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0027251243591308594
+    },
+    {
+      "id": "fa0986a08930af4d9c238cd479a07ad8bfdbe70f6c2b22c9273fa4c4689bddce",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.002875804901123047
+    },
+    {
+      "id": "f803660bacecde588ea89a088cb80b02c960ea766afee2f8efd4dcfd1044b7f2",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0027570724487304688
+    },
+    {
+      "id": "968ee4dc8a431b247bb6b58fec068ffd9a318c9213ecae48d2f218f124bd6b91",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.002660036087036133
+    },
+    {
+      "id": "9c4e1182aff578d6b1b23634c32715c66fe25a12a07dfad0a2a37937ac6f557a",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0025877952575683594
+    },
+    {
+      "id": "e958378417bb84341f998eccacb8e94ee1acebe6f0ba4ea9fda400b93e234857",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.002644777297973633
+    },
+    {
+      "id": "1bc92fc7a099dc0bfe19f2ead05be478e2a3c2a1dd56f301f51afd655dbd2b80",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0026369094848632812
+    },
+    {
+      "id": "98c35e6e56e652e53513cfa6b28b2ed3a42a65ed84b53b8414d15cae0e46c89e",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0029191970825195312
+    },
+    {
+      "id": "aa62b1269afa2a33a1ec5cee8233737445b16c59fc975bff5b1041a9e70f7ed2",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.012103557586669922
+    },
+    {
+      "id": "9be72d3e9e7969804a5e98d49eae7ee122b179db44b83b5e1d5ff46470f39eaa",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011818647384643555
+    },
+    {
+      "id": "9ad3bf082c8f266ea1f422fae04c827b10ded64d6131c365cfc6767eeca1a928",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0074920654296875
+    },
+    {
+      "id": "2bee25bb919238597a10ba48a096555b31bd4a0ab23f2e60bcd2c4aa42a15a6f",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011963844299316406
+    },
+    {
+      "id": "3974391321d2a9222599ea0c80c5445bd4ada875a3a2b39ad3eab9fceccbbd55",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011590242385864258
+    },
+    {
+      "id": "ac3d56c2479522d89f7f55937abbb0ba18608b3991db6e5198c9c9bc3e27b277",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011827707290649414
+    },
+    {
+      "id": "dd78a4c4fab4ad83cc9188721246b732d2cba824c7260f3bb5940f219beebd1a",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.01178741455078125
+    },
+    {
+      "id": "d17cd6cdc2aa704a6b3885d45eac1204860f5152951cdbb14fbc6edeec7355eb",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011838674545288086
+    },
+    {
+      "id": "9b159ba31d68abf06453d2baf8000628158e867f683473ea99a759edd9f094c6",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011718034744262695
+    },
+    {
+      "id": "2c31be7dae80a2a8cf873e3594d0957fcbc8113acf778aea4ee789850499fcdb",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011818170547485352
+    },
+    {
+      "id": "ba1066f0ccbe14b181d18a32cdf7a3046e51ee68fe16f3fa798f3da6dab3dc71",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011838436126708984
+    },
+    {
+      "id": "769eecaae1983438cba82b9b7ffe2fccf0b52dfe12e291903eaccc2add5f057e",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011482477188110352
+    },
+    {
+      "id": "cea308221ecf642f74b1e3d05fb09f512482583af104bc19819f970a7e3d7186",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011755228042602539
+    },
+    {
+      "id": "6e43f8931df4fd2af3fbeb40b2c3b2ffe94429acd6c23ebe1779d4e0daa07708",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011734247207641602
+    },
+    {
+      "id": "c00751e4dcbb53e515f2a5849df8e374a6c80cb472ff8bfb1cea43d23e10a9b9",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011681079864501953
+    },
+    {
+      "id": "be78f6031447eb338d92a53e86e2d5cb5555f7986a49619c94b26b5610b57c61",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.01173853874206543
+    },
+    {
+      "id": "9ae90de629e0ac6e8f8ef19db362e8893205f82ff08a154f36b7690550a80140",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011557579040527344
+    },
+    {
+      "id": "067186d930b56ea959bb8088a0010fccbc04097242a7cbb760c59c48a5c968c4",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011697053909301758
+    },
+    {
+      "id": "331f02c7b35fd55425dbb6bdaa16847c402d3f4d5a65099c40b7d94e9dfc41e8",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.012188434600830078
+    },
+    {
+      "id": "046f898dead1df26d636bcf57aaa7998845c32260c0acce761b967175aacea86",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011581897735595703
+    },
+    {
+      "id": "4fb68b874d79bcd8dbcaec197a13486af646204352ec0a4778c1374fbcff7dbe",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011791467666625977
+    },
+    {
+      "id": "504f448c484911765e7b69309476e114ea9366101ffdc03669a1130b6f0da59c",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.011705875396728516
+    },
+    {
+      "id": "3edbae9f4218a0f9d2ff9af32707e5fb62c3893bf976e25ad466cd9f5afce43d",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.012381553649902344
+    },
+    {
+      "id": "d0634f139daa7cbcb916888ec9ec2f54b0279d3cd413d67e828d149caa0f9e1c",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.013106346130371094
+    },
+    {
+      "id": "c928e2df3d710c9d897683bc6333a43ed5ead78a406dafa27713abb17a305cd1",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.005929470062255859
+    },
+    {
+      "id": "b4adbff633fdcad3fb7ddf1bf02cc3bf242c2633d68829fe313544667d980953",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0037577152252197266
+    },
+    {
+      "id": "c739934a079d12a984a152b66a0978626231fa2a8ff288b520a54e98773c53eb",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003808259963989258
+    },
+    {
+      "id": "a803254af4e94e841f733aed66caae2a9dab652a71ec14439440d8a7684de3d2",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0036389827728271484
+    },
+    {
+      "id": "e30576d377ae53e4c833bece38a76f33f6f0552f67611e583873f09ed011609b",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0038068294525146484
+    },
+    {
+      "id": "3af7a0aaa8c337408f235ad642ef2bf483ef5d558a7602c0778d469abcf5d6df",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003081798553466797
+    },
+    {
+      "id": "e8d83ac60c41573c9203cf1d7eb7743801d4588fc6237435576efbf36d838937",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0037615299224853516
+    },
+    {
+      "id": "4dc5200c76c656a9cf0dfffe4d51a65f7fda7defdfc64008936c901bd017eb41",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003523588180541992
+    },
+    {
+      "id": "d0669fe36f0d395c8cb98477bf1f229919ca1a6d3b69a9c9ce2b5c805ad17420",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0034017562866210938
+    },
+    {
+      "id": "aafdce4fb161665a602de0b6d8fbc06a3e25a9892f2e191bdee4dce0c0328698",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0033721923828125
+    },
+    {
+      "id": "a4a5b6b36e0e1f3568988c3b865f52400726600d0574f24282d565852c3a3ed4",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003834962844848633
+    },
+    {
+      "id": "223b629057689f87dc9ee4187705bc7d7451cd9f11ca37360195d0d2405f4650",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0032494068145751953
+    },
+    {
+      "id": "a853298670c0671378513008179dfe9772b1a1e0203c5e03633e360ef3a64e8d",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0038938522338867188
+    },
+    {
+      "id": "c8a31cb7163268b45e276ee6d85d7ed97db75a673a01feafd431140ea35889f4",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0032646656036376953
+    },
+    {
+      "id": "2e91cd62a6eeffe9ab930cecb7399d27b7b57fda5ed97357813d031871f916df",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0036880970001220703
+    },
+    {
+      "id": "38f84870c391c6659861e02b14fae5ca9477accf04cca1a62b9ac857ffa4d294",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0035953521728515625
+    },
+    {
+      "id": "fafde5d5a76ad98599db3f4e3373f62f8d58c3f2cdfd8329361996d785786773",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003208637237548828
+    },
+    {
+      "id": "8350f4c1a2e562ec4eeb6e38a0408d599e80cca151c212735fc87c4dc1ee295f",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0035467147827148438
+    },
+    {
+      "id": "9ad406904e008a8914208bc18d833c1b66e46ed5d60bc9231d7f6ba4f4fc5dac",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003656148910522461
+    },
+    {
+      "id": "52ffc688f00a669c76178172a7d8b7d91785e343e01425039549849de38a3bf4",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0033948421478271484
+    },
+    {
+      "id": "edd3314e7e0e8a03bf8d97833e56d547101914efb64923024bb7976adf927552",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003354310989379883
+    },
+    {
+      "id": "30f4074d1c3ee0cf1e090c7128e8d114024b13229fe672ce4d314436da422e7c",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003694772720336914
+    },
+    {
+      "id": "563087b63cca6e9639acce53da5f1d4f0a5f432a90706c28255e78e208bfad5f",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003432750701904297
+    },
+    {
+      "id": "ba8b7a7c419f72828259b2a2eb8061b505938b81e332319917263667fc8f6703",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003712892532348633
+    },
+    {
+      "id": "f880e9a8b643f1729587d3af9061550e26e4ce1929f5129dde5c911cfa7c884f",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003625631332397461
+    },
+    {
+      "id": "e185914bd1cee64be41c97634712d37ba73f5117898510b98cf25272f1582f30",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003316640853881836
+    },
+    {
+      "id": "444fa924a866ad971454e9902184e261f6a9a7d86e25243e72d5383f8fcc23af",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0031080245971679688
+    },
+    {
+      "id": "017026e5a404db71667c993a70276c5e6c96c5db5769aea99ec14207e952023c",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0036478042602539062
+    },
+    {
+      "id": "ec8c55f36ea5ed719c099f6ba2d2c5907bde241a41747aa8ccefd408eaf780d1",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0034210681915283203
+    },
+    {
+      "id": "91babc630a31e04d4bd656a207f7e6002b7557e546db5d69ee315dbbc8b55af3",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0033562183380126953
+    },
+    {
+      "id": "045ef361b7747440c4e1f8bd0c4987740f978a5243ad4986c1b0d8d5e604fd65",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0037343502044677734
+    },
+    {
+      "id": "da035625e09eb83d122fc45ff14ef1c18e846bcffa9e1fd7a4844d0e5c340bea",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0034172534942626953
+    },
+    {
+      "id": "ba4500c0575255dc4655cf37d9010e440068429b399e5d6d29148113007a6416",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0035905838012695312
+    },
+    {
+      "id": "454acb4fbf8da894a967c9d4e564a2e77650a4bed156813d234ec40c261a350e",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0031905174255371094
+    },
+    {
+      "id": "9ba931fe7b8443f0cd1b0c19d646852adb2b638dce007c6a351dad8561182dbf",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0037729740142822266
+    },
+    {
+      "id": "373a79cd875dbe60756eb35e5b4c9d069e6b18ece304d36dd7b7a76cf1bbf89b",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003284931182861328
+    },
+    {
+      "id": "e5d4cb743fa2ab810a0ea7cf42aead01264b43a998d0227fba05e63b087cc154",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003745555877685547
+    },
+    {
+      "id": "544f2737fe5cb401e07a2988e2bdc9c0167c52b1691c474f353fbd73fc5d3e27",
+      "case_type": "normal",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.004156827926635742
+    },
+    {
+      "id": "rag_edge_001",
+      "case_type": "edge",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003814220428466797
+    },
+    {
+      "id": "rag_edge_002",
+      "case_type": "edge",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.003736734390258789
+    },
+    {
+      "id": "rag_edge_003",
+      "case_type": "edge",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.002721548080444336
+    },
+    {
+      "id": "rag_edge_004",
+      "case_type": "edge",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0035333633422851562
+    },
+    {
+      "id": "rag_adv_001",
+      "case_type": "adversarial",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0
+      },
+      "latency_sec": 0.0027496814727783203
+    },
+    {
+      "id": "rag_adv_002",
+      "case_type": "adversarial",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0,
+        "source_recall": 0.0
+      },
+      "latency_sec": 0.0026879310607910156
+    },
+    {
+      "id": "rag_adv_003",
+      "case_type": "adversarial",
+      "scores": {
+        "exact_match": 0.0,
+        "token_f1": 0.0,
+        "rouge_l": 0.0,
+        "bleu1": 0.0,
+        "bleu2": 0.0,
+        "bleu3": 0.0,
+        "bleu4": 0.0
+      },
+      "latency_sec": 0.002573728561401367
+    }
+  ]
+}

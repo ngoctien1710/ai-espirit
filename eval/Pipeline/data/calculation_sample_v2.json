@@ -1,0 +1,20 @@
+[
+  {
+    "id": "calc_v2_001",
+    "case_type": "normal",
+    "input": {"expression": "125 + 37"},
+    "ground_truth": {"result": 162}
+  },
+  {
+    "id": "calc_v2_002",
+    "case_type": "normal",
+    "input": {"expression": "(100 - 20) / (5 + 3)"},
+    "ground_truth": {"result": 10}
+  },
+  {
+    "id": "calc_v2_003",
+    "case_type": "adversarial",
+    "input": {"expression": "100 / 0"},
+    "ground_truth": {"result": null}
+  }
+]

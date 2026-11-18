@@ -1,0 +1,2 @@
+﻿num_queries,avg_latency_ms,median_latency_ms,p95_latency_ms,min_latency_ms,max_latency_ms
+182,6.8959559846137255,4.171895561739802,11.82977866847068,2.175047993659973,83.85609602555633

@@ -60,6 +60,20 @@ class AgentExecutor:
                     return {"answer": "", "sources": [], "metadata": {"status": "ERROR", "error_code": "AGENT_EXECUTION_FAILURE"}}
 
                 if state.final_answer:
+                    # --- CHỐT CHẶN ÉP BUỘC DÙNG TOOL ---
+                    if state.iteration == 0 and not state.sources:
+                        self.logger.warning(f"[{req_id}] Agent bypassed tool. Forcing tool call.")
+                        state.final_answer = None # Hủy câu trả lời tự biên tự diễn
+                        
+                        # Bơm thêm lời nhắc thép vào luồng chat để chấn chỉnh LLM
+                        state.messages.append({
+                            "role": "user",
+                            "content": "SYSTEM ALERT: Bạn đã vi phạm quy tắc. BẮT BUỘC phải gọi công cụ 'knowledge_retriever' để tra cứu thông tin trước khi đưa ra đáp án cuối cùng."
+                        })
+                        state.iteration += 1
+                        continue # Ép chạy lại vòng lặp
+                    # -----------------------------------
+
                     return {
                         "answer": state.final_answer, 
                         "sources": state.sources,

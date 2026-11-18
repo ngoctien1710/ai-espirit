@@ -1,0 +1,162 @@
+{
+  "module": "router",
+  "num_cases": 5,
+  "num_success": 5,
+  "num_errors": 0,
+  "aggregate": {
+    "accuracy": 1.0,
+    "per_class": {
+      "multi_step": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "ambiguous": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "ood": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "product_search": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "knowledge_qa": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "confusion_matrix": {
+      "knowledge_qa": {
+        "knowledge_qa": 1
+      },
+      "product_search": {
+        "product_search": 1
+      },
+      "multi_step": {
+        "multi_step": 1
+      },
+      "ambiguous": {
+        "ambiguous": 1
+      },
+      "ood": {
+        "ood": 1
+      }
+    }
+  },
+  "breakdown_by_case_type": {
+    "edge": {
+      "accuracy": 1.0,
+      "per_class": {
+        "ood": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "ambiguous": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        }
+      },
+      "confusion_matrix": {
+        "ambiguous": {
+          "ambiguous": 1
+        },
+        "ood": {
+          "ood": 1
+        }
+      }
+    },
+    "normal": {
+      "accuracy": 1.0,
+      "per_class": {
+        "multi_step": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "product_search": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "knowledge_qa": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        }
+      },
+      "confusion_matrix": {
+        "knowledge_qa": {
+          "knowledge_qa": 1
+        },
+        "product_search": {
+          "product_search": 1
+        },
+        "multi_step": {
+          "multi_step": 1
+        }
+      }
+    }
+  },
+  "errors": [],
+  "per_case": [
+    {
+      "id": "router_v2_001",
+      "case_type": "normal",
+      "scores": {
+        "correct": 1.0,
+        "predicted_route": "knowledge_qa",
+        "ground_truth_route": "knowledge_qa"
+      },
+      "latency_sec": 4.084785223007202
+    },
+    {
+      "id": "router_v2_002",
+      "case_type": "normal",
+      "scores": {
+        "correct": 1.0,
+        "predicted_route": "product_search",
+        "ground_truth_route": "product_search"
+      },
+      "latency_sec": 3.9207963943481445
+    },
+    {
+      "id": "router_v2_003",
+      "case_type": "normal",
+      "scores": {
+        "correct": 1.0,
+        "predicted_route": "multi_step",
+        "ground_truth_route": "multi_step"
+      },
+      "latency_sec": 3.934018611907959
+    },
+    {
+      "id": "router_v2_004",
+      "case_type": "edge",
+      "scores": {
+        "correct": 1.0,
+        "predicted_route": "ambiguous",
+        "ground_truth_route": "ambiguous"
+      },
+      "latency_sec": 3.8788094520568848
+    },
+    {
+      "id": "router_v2_005",
+      "case_type": "edge",
+      "scores": {
+        "correct": 1.0,
+        "predicted_route": "ood",
+        "ground_truth_route": "ood"
+      },
+      "latency_sec": 3.828928232192993
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "tooluse_001",
+    "case_type": "normal",
+    "input": {"query": "Cách bày mâm cúng ông Công ông Táo như thế nào?"},
+    "ground_truth": {
+      "tool_calls": [
+        {"tool_name": "knowledge_retriever", "arguments": {"query": "Cách bày mâm cúng ông Công ông Táo như thế nào?"}},
+        {"tool_name": "knowledge_reranker", "arguments": {}}
+      ]
+    }
+  },
+  {
+    "id": "tooluse_002",
+    "case_type": "normal",
+    "input": {"query": "Mùng 1 âm lịch có tên gọi là gì?"},
+    "ground_truth": {
+      "tool_calls": [
+        {"tool_name": "knowledge_retriever", "arguments": {"query": "Mùng 1 âm lịch có tên gọi là gì?"}},
+        {"tool_name": "knowledge_reranker", "arguments": {}}
+      ]
+    }
+  }
+]
